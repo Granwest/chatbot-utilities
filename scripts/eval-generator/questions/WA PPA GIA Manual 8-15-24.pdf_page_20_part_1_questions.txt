@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Motor Vehicle Accident Prevention Discount amount?",
+        "answer": "4% discount applies to premium.",
+        "verbatimQuoteFromManual": "4% Motor Vehicle Accident"
+    },
+    {
+        "question": "Requirements for Accident Prevention Discount?",
+        "answer": "Driver must be 55+ with valid certificate.",
+        "verbatimQuoteFromManual": "Age 55 or older"
+    },
+    {
+        "question": "Accident-Free Discount max percentage?",
+        "answer": "6% discount after 3 accident-free years.",
+        "verbatimQuoteFromManual": "Discount 6%"
+    },
+    {
+        "question": "Definition of chargeable accident?",
+        "answer": "Driver more than 50% at fault causing damage.",
+        "verbatimQuoteFromManual": "chargeable accident"
+    },
+    {
+        "question": "Employee discount percentage?",
+        "answer": "10% off base premium.",
+        "verbatimQuoteFromManual": "10% discount off"
+    }
+]
+```

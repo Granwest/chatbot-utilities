@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "medical payments coverage rate factor",
+        "answer": "Multiply $10,000 PIP rate by 0.234.",
+        "verbatimQuoteFromManual": "0.234"
+    },
+    {
+        "question": "how is the surcharge applied?",
+        "answer": "Applied to liability premium.",
+        "verbatimQuoteFromManual": "applied to liability premium"
+    },
+    {
+        "question": "annual policies premium calculation",
+        "answer": "Multiply total premium by 2.00.",
+        "verbatimQuoteFromManual": "Multiply total premium by 2.00"
+    },
+    {
+        "question": "how is vehicle tier score calculated?",
+        "answer": "Add points for each characteristic.",
+        "verbatimQuoteFromManual": "adding up the points"
+    },
+    {
+        "question": "late pays calculation criteria",
+        "answer": "Over 3 days late.",
+        "verbatimQuoteFromManual": "only those over 3 days late"
+    }
+]
+```

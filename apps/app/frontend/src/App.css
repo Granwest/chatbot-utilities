@@ -1,0 +1,8 @@
+/* Ensure the app content is aligned to the top left */
+.App {
+  display: block;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+}

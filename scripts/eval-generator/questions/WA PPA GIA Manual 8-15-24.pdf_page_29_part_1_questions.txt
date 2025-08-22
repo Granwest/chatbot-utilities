@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Optional Limits Transportation Expenses coverage?",
+        "answer": "Can increase $20/600 limit.",
+        "verbatimQuoteFromManual": "$20/600 limit"
+    },
+    {
+        "question": "How to include Towing and Labor?",
+        "answer": "Attach endorsement PP0303.",
+        "verbatimQuoteFromManual": "Attach the Towing And Labor Costs"
+    },
+    {
+        "question": "What counts as Excess Electronic Equipment?",
+        "answer": "Radios, GPS, computers, and more.",
+        "verbatimQuoteFromManual": "Reproduces, receives, or transmits"
+    },
+    {
+        "question": "Limit for non-manufacturer equipment?",
+        "answer": "Subject to $1,000 sub-limit.",
+        "verbatimQuoteFromManual": "Subject to a sub-limit"
+    },
+    {
+        "question": "Tapes, records, and other media?",
+        "answer": "$200 added automatically.",
+        "verbatimQuoteFromManual": "$200 worth of tapes"
+    }
+]
+```

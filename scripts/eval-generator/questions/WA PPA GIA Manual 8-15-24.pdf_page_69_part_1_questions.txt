@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is the factor for age 18 Pleasure Use no Good Student Credit?",
+        "answer": "1.30",
+        "verbatimQuoteFromManual": "Factor 1.30"
+    },
+    {
+        "question": "Factor for 17-year-old with driver training and Good Student Credit, Work Use?",
+        "answer": "1.25",
+        "verbatimQuoteFromManual": "Factor 1.25"
+    },
+    {
+        "question": "Pleasure Use factor age 19 with driver training and Good Student Credit?",
+        "answer": "0.97",
+        "verbatimQuoteFromManual": "Factor 0.97"
+    },
+    {
+        "question": "Drive to Work factor age 20 no Good Student Credit?",
+        "answer": "1.50",
+        "verbatimQuoteFromManual": "Factor 1.50"
+    },
+    {
+        "question": "21-year-old factor with Good Student Credit, driver training, Pleasure Use?",
+        "answer": "0.94",
+        "verbatimQuoteFromManual": "Factor 0.94"
+    }
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What qualifies a motor vehicle?",
+        "answer": "Written on specified auto basis.",
+        "verbatimQuoteFromManual": "specified auto basis"
+    },
+    {
+        "question": "What is joint ownership coverage?",
+        "answer": "For jointly-owned private autos.",
+        "verbatimQuoteFromManual": "owned jointly by two or more"
+    },
+    {
+        "question": "Rules for owned by trust?",
+        "answer": "Vehicle must be trust-owned.",
+        "verbatimQuoteFromManual": "vehicles insured under the policy must be owned by the trust"
+    },
+    {
+        "question": "Who can own miscellaneous vehicles?",
+        "answer": "Individual, spouses, or relatives.",
+        "verbatimQuoteFromManual": "owned by: An individual, Spouses"
+    },
+    {
+        "question": "Coverage for corporate vehicle trusts?",
+        "answer": "Not eligible under Personal Auto.",
+        "verbatimQuoteFromManual": "grantor is a corporate entity"
+    }
+]
+```

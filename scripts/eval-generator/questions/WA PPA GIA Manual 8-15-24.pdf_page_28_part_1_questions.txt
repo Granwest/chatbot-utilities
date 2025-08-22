@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Minimum Bodily Injury limits?",
+        "answer": "Must be equal to policy limits.",
+        "verbatimQuoteFromManual": "Bodily Injury Coverage must be afforded at limits equal to the policy’s liability limits."
+    },
+    {
+        "question": "Property Damage deductible for hit-and-run?",
+        "answer": "$300 deductible applies.",
+        "verbatimQuoteFromManual": "Property Damage is subject to a $300 Deductible for accidents involving a hit-and-run vehicle."
+    },
+    {
+        "question": "Rejecting Underinsured Motorists coverage?",
+        "answer": "Allowed in writing by named insured.",
+        "verbatimQuoteFromManual": "The named insured or spouse may, in writing, reject Bodily Injury and Property Damage Underinsured Motorists Coverage."
+    },
+    {
+        "question": "Rates for multi-car risks?",
+        "answer": "Applied per car, including the first.",
+        "verbatimQuoteFromManual": "Rates for multi-car risks are on a per-car basis. Apply these rates to each car including the first car."
+    },
+    {
+        "question": "Collision deductible options?",
+        "answer": "Shown on state rate pages.",
+        "verbatimQuoteFromManual": "Collision Deductible options are shown on the state rate pages."
+    }
+]
+```

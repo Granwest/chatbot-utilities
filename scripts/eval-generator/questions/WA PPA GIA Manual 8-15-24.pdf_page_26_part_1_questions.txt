@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Ratio for July 15?",
+        "answer": ".534",
+        "verbatimQuoteFromManual": ".534"
+    },
+    {
+        "question": "December 31 pro rata ratio?",
+        "answer": "1.000",
+        "verbatimQuoteFromManual": "1.000"
+    },
+    {
+        "question": "October 10 cancellation ratio?",
+        "answer": ".693",
+        "verbatimQuoteFromManual": ".693"
+    },
+    {
+        "question": "Day of year for November 15?",
+        "answer": "319",
+        "verbatimQuoteFromManual": "319"
+    },
+    {
+        "question": "Ratio for August 30?",
+        "answer": ".619",
+        "verbatimQuoteFromManual": ".619"
+    }
+]
+```

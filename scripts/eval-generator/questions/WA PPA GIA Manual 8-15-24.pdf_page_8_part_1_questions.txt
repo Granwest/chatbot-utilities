@@ -1,0 +1,26 @@
+```json
+[
+    {
+        "question": "How are LPMP premiums calculated?",
+        "answer": "Premium = Rate x Classification x LPMP.",
+        "verbatimQuoteFromManual": "PIP/Med Payments premium = PIP/Med Pay Rate x Classification rating factor x LPMP PIP/Med Pay vehicle rating factor."
+    },
+    {
+        "question": "What if no LPMP symbol exists?",
+        "answer": "Use factor 1.0 until ISO publishes symbols.",
+        "verbatimQuoteFromManual": "If no LPMP liability symbol exists in VINMaster for the vehicle being rated, use a factor of 1.0."
+    },
+    {
+        "question": "Does LPMP apply to collision coverage?",
+        "answer": "No, LPMP does not affect collision premiums.",
+        "verbatimQuoteFromManual": "The LPMP Vehicle Rating Plan does not affect the premium determination procedures that apply to Comprehensive and Collision coverages."
+    },
+    {
+        "question": "How is territory defined?",
+        "answer": "Based on where auto is garaged.",
+        "verbatimQuoteFromManual": "Refer to Territory Definitions to determine the territory code for the location where the auto is principally garaged."
+    },
+    {
+        "question": "What is used for symbol determination?",
+        "answer": "ISO VINMaster or cost of auto.",
+        "verbatimQuoteFromManual": "Symbol determination is done using ISO

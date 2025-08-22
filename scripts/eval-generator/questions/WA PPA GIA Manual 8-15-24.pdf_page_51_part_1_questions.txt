@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "CDL disqualifications BAC levels?",
+        "answer": "Disqualification occurs at BAC .04+.",
+        "verbatimQuoteFromManual": "CDL DISQUALIFICATION: BAC. 04+"
+    },
+    {
+        "question": "What is violation 53220?",
+        "answer": "Open container by passenger.",
+        "verbatimQuoteFromManual": "OPEN CONTAINER BY PASSENGER"
+    },
+    {
+        "question": "Penalty for refusal chemical test?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "REFUSAL TO SUBMIT TO CHEMICAL TEST"
+    },
+    {
+        "question": "Bridge speed of 21+ mph over?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "BRIDGE SPEED 26 PLUS OVER LIMIT"
+    },
+    {
+        "question": "Drinking while operating MV?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "DRINKING WHILE OPERATING MV"
+    }
+]
+```

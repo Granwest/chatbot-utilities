@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is the base transportation expense limit?",
+        "answer": "$20/$600",
+        "verbatimQuoteFromManual": "$20/$600 limit"
+    },
+    {
+        "question": "What is the GIA rate for $50/$1,500 coverage?",
+        "answer": "11.30 per auto",
+        "verbatimQuoteFromManual": "11.30"
+    },
+    {
+        "question": "Do classifications apply to these rates?",
+        "answer": "No, classifications do not apply.",
+        "verbatimQuoteFromManual": "Classifications do not apply"
+    },
+    {
+        "question": "What is the GIA rate for $40/$1,200 coverage?",
+        "answer": "7.77 per auto",
+        "verbatimQuoteFromManual": "7.77"
+    },
+    {
+        "question": "Are increased transportation expense limits available?",
+        "answer": "Yes, as shown in the Product Guide.",
+        "verbatimQuoteFromManual": "Increased limits available"
+    }
+]
+```

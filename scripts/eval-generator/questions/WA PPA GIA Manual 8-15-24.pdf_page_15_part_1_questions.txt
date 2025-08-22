@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is a youthful operator?",
+        "answer": "Unmarried under 30 or married under 25.",
+        "verbatimQuoteFromManual": "Youthful Operator means"
+    },
+    {
+        "question": "No youthful operator classification?",
+        "answer": "Not applicable for ages 30+.",
+        "verbatimQuoteFromManual": "No Youthful Operator classification"
+    },
+    {
+        "question": "Definition of married?",
+        "answer": "Living with spouse, custody exception.",
+        "verbatimQuoteFromManual": "married means a married person"
+    },
+    {
+        "question": "How is age defined?",
+        "answer": "Age on the last birthday.",
+        "verbatimQuoteFromManual": "age attained on the last birthday"
+    },
+    {
+        "question": "Student over 100 miles?",
+        "answer": "Rated as married if unmarried.",
+        "verbatimQuoteFromManual": "student residing over 100 road miles"
+    }
+]
+```

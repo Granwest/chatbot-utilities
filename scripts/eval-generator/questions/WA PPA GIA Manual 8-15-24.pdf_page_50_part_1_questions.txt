@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is 16260 classified as?",
+        "answer": "Major Alcohol/Drug related",
+        "verbatimQuoteFromManual": "ALCOHOL (BAC ABOVE LEGAL LIMIT)"
+    },
+    {
+        "question": "17150 violation, what's the classification?",
+        "answer": "Administrative",
+        "verbatimQuoteFromManual": "RESTORATION OF PRIV AFTER LIMIT OR RESTR"
+    },
+    {
+        "question": "9130 no DMV response classification?",
+        "answer": "Ignore",
+        "verbatimQuoteFromManual": "NO DMV RESPONSE"
+    },
+    {
+        "question": "Meaning of violation code 12013?",
+        "answer": "Reinstatement",
+        "verbatimQuoteFromManual": "REINSTATEMENT"
+    },
+    {
+        "question": "What is 53410 related to?",
+        "answer": "Alcohol/Drug related",
+        "verbatimQuoteFromManual": "ALLOW INTOXICATED PERSON TO DRIV"
+    }
+]
+```

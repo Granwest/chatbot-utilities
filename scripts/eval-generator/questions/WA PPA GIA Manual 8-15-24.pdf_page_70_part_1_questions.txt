@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Factor code for 18, drive to work?",
+        "answer": "8219 or 8270 based on classification.",
+        "verbatimQuoteFromManual": "8219, 8270"
+    },
+    {
+        "question": "Rate for 20, pleasure use, no training?",
+        "answer": "2.37 or 2.01 based on classification.",
+        "verbatimQuoteFromManual": "2.37, 2.01"
+    },
+    {
+        "question": "Good student classification age span?",
+        "answer": "17 to 20 unmarried only.",
+        "verbatimQuoteFromManual": "Good Student Classification"
+    },
+    {
+        "question": "Policyholder classification 25-29?",
+        "answer": "Classify as all other operators.",
+        "verbatimQuoteFromManual": "CLASSIFY AS ALL OTHER OPERATORS"
+    },
+    {
+        "question": "Rate for 21 without training, pleasure use?",
+        "answer": "1.13 or 1.02 based on classification.",
+        "verbatimQuoteFromManual": "1.13, 1.02"
+    }
+]
+```

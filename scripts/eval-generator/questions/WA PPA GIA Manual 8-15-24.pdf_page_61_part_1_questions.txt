@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What does code 11510 mean?",
+        "answer": "Failing to submit vehicle for inspection.",
+        "verbatimQuoteFromManual": "ALL VEH TO SUBMIT TO VEH INSP"
+    },
+    {
+        "question": "What is violation 11710?",
+        "answer": "Altered, forged, or counterfeit vehicle documents.",
+        "verbatimQuoteFromManual": "ALTER, FORGE, COUNTERFEIT TITLE, REG, PLATES"
+    },
+    {
+        "question": "Is code 61150 about farm equipment?",
+        "answer": "Yes, it relates to lamps/emblems on farm equipment.",
+        "verbatimQuoteFromManual": "DEF LAMPS/EMBLEMS ON FARM EQUIP"
+    },
+    {
+        "question": "What does 68210 refer to?",
+        "answer": "Excessive noise of an unspecified cause.",
+        "verbatimQuoteFromManual": "EXCESSIVE NOISE UNSPECIFIED CAUSE"
+    },
+    {
+        "question": "What is code 84130 about?",
+        "answer": "Failure to use a restraint system.",
+        "verbatimQuoteFromManual": "FAIL TO USE RESTRAINT SYSTEM"
+    }
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is Tier 205 factor?",
+        "answer": "0.73",
+        "verbatimQuoteFromManual": "Tier 205 Factor"
+    },
+    {
+        "question": "How is the Grange 2.0 factor applied?",
+        "answer": "Applied to base rates.",
+        "verbatimQuoteFromManual": "applied to the base rates"
+    },
+    {
+        "question": "Tier movement limits for renewal?",
+        "answer": "One tier for 6 months, two tiers for 12 months.",
+        "verbatimQuoteFromManual": "tier movement will be limited"
+    },
+    {
+        "question": "When is insurance credit score updated?",
+        "answer": "Every 36 months.",
+        "verbatimQuoteFromManual": "insurance credit score every 36 months"
+    },
+    {
+        "question": "Do expense fees modify rating plans?",
+        "answer": "No, not subject to modification.",
+        "verbatimQuoteFromManual": "not subject to modification"
+    }
+]
+```

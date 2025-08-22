@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "factor for 19-year-old married male?",
+        "answer": "Without driver training: 2.15, With: 1.89",
+        "verbatimQuoteFromManual": "Factor Code 8944 and 8984"
+    },
+    {
+        "question": "good student discount for 20-year-old?",
+        "answer": "Pleasure Use factor is 1.83.",
+        "verbatimQuoteFromManual": "1.83 Pleasure Use"
+    },
+    {
+        "question": "factor for 17-year-old w driver training?",
+        "answer": "Pleasure use: 2.12, Discount: 1.80.",
+        "verbatimQuoteFromManual": "Factor Code 8964 and 8986"
+    },
+    {
+        "question": "married male 21 factor?",
+        "answer": "1.13 pleasure use, 1.30 work.",
+        "verbatimQuoteFromManual": "Factor Code 8554"
+    },
+    {
+        "question": "classification for 25-year-old driver?",
+        "answer": "Classify as all other operators.",
+        "verbatimQuoteFromManual": "CLASSIFY AS ALL OTHER"
+    }
+]
+```

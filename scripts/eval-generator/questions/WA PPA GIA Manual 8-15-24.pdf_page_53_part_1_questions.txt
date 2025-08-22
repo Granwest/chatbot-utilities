@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "License cancellation penalty?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "LICENSE NOT ENTITLED/GAVE WRNG INFO,LIC CANC"
+    },
+    {
+        "question": "Speeding threshold for major violation?",
+        "answer": "21 mph and over.",
+        "verbatimQuoteFromManual": "SPEED 21 PLUS OVER LIMIT"
+    },
+    {
+        "question": "What is SR-22 withdrawal?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "SR-22/FIN/JUDG/INS WITHDRAWAL"
+    },
+    {
+        "question": "Negligent driving classification?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "NEGLIGENT DRIVING"
+    },
+    {
+        "question": "Theft of motor vehicle penalty?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "THEFT OF MV"
+    }
+]
+```

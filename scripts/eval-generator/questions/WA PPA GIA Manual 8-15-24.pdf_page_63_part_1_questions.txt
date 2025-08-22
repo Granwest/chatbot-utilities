@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is code 71140?",
+        "answer": "PKG ON SDWK.",
+        "verbatimQuoteFromManual": "PKG ON SDWK"
+    },
+    {
+        "question": "Is code 71250 moving or non-moving?",
+        "answer": "Non-moving.",
+        "verbatimQuoteFromManual": "Non-moving violations"
+    },
+    {
+        "question": "Definition of code 66250?",
+        "answer": "PROJ LOAD ON PASS VEH.",
+        "verbatimQuoteFromManual": "PROJ LOAD ON PASS VEH"
+    },
+    {
+        "question": "Grange classification for 63410?",
+        "answer": "Non-moving.",
+        "verbatimQuoteFromManual": "Non-moving violations"
+    },
+    {
+        "question": "Violation description for code 85130?",
+        "answer": "UNLAWFUL SNOWMOBILE OPERATION.",
+        "verbatimQuoteFromManual": "UNLAWFUL SNOWMOBILE OPERATION"
+    }
+]
+```

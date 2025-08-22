@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Dune buggy liability rate?",
+        "answer": "90% of private passenger base rate.",
+        "verbatimQuoteFromManual": "Charge 90% of private passenger base rate."
+    },
+    {
+        "question": "Golf cart liability rate?",
+        "answer": "15% of private passenger base rate.",
+        "verbatimQuoteFromManual": "Charge 15% of private passenger base rate."
+    },
+    {
+        "question": "Deductible for dune buggy collision?",
+        "answer": "$200 deductible.",
+        "verbatimQuoteFromManual": "Collision Deductible $200."
+    },
+    {
+        "question": "Collision GIA rate for golf carts?",
+        "answer": "$0.40 per $100.",
+        "verbatimQuoteFromManual": "Collision GIA Rate Per $100 $0.40."
+    },
+    {
+        "question": "Comprehensive rate for dune buggies?",
+        "answer": "$1.02 per $100 with $100 deductible.",
+        "verbatimQuoteFromManual": "Comprehensive GIA Rate Per $100 $1.02."
+    }
+]
+```

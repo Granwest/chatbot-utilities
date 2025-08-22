@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "BI rate for Territory 53?",
+        "answer": "$107.62 for 25/50.",
+        "verbatimQuoteFromManual": "Territory 53 107.62"
+    },
+    {
+        "question": "UIM-BI single car base rate?",
+        "answer": "$59.35 per vehicle.",
+        "verbatimQuoteFromManual": "STATEWIDE SINGLE CAR $59.35"
+    },
+    {
+        "question": "Limit factor for BI 100/300?",
+        "answer": "1.59.",
+        "verbatimQuoteFromManual": "100/300 1.59"
+    },
+    {
+        "question": "Expense fee for collision?",
+        "answer": "$6 semi-annually.",
+        "verbatimQuoteFromManual": "COLLISION $6"
+    },
+    {
+        "question": "Rate for Territory 61 BI 25/50?",
+        "answer": "$110.59.",
+        "verbatimQuoteFromManual": "Territory 61 110.59"
+    }
+]
+```

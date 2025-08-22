@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Factor codes for 17-year-old female?",
+        "answer": "8024 for not owner, 8124 for owner.",
+        "verbatimQuoteFromManual": "Factor Code 8024, 8124"
+    },
+    {
+        "question": "Impact of driver training on 19-year-old?",
+        "answer": "Reduces factor from 2.37 to 2.09.",
+        "verbatimQuoteFromManual": "With driver training 2.09"
+    },
+    {
+        "question": "Good student factor for pleasure use?",
+        "answer": "1.77 for 19 years old with training.",
+        "verbatimQuoteFromManual": "1.77 for pleasure use"
+    },
+    {
+        "question": "Premium factor for age 21-24?",
+        "answer": "1.13 for not owner; 1.56 for owner.",
+        "verbatimQuoteFromManual": "1.13, 1.56"
+    },
+    {
+        "question": "Definition of good student classification?",
+        "answer": "Lower factor for eligible students.",
+        "verbatimQuoteFromManual": "Good student classification"
+    }
+]
+```

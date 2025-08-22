@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is violation 16850?",
+        "answer": "CDL 3 Yr Disqual: Leaving Scene, HAZ MAT.",
+        "verbatimQuoteFromManual": "CDL 3 YR DISQUAL: LEAVING SCENE, HAZ MAT"
+    },
+    {
+        "question": "Classification for 56240?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "DAMAGING/TAMPERING W/MV"
+    },
+    {
+        "question": "Fail to yield to emergency vehicle?",
+        "answer": "Major violation under 32150.",
+        "verbatimQuoteFromManual": "FAIL TO YLD TO EMER VEH"
+    },
+    {
+        "question": "What is violation 18420?",
+        "answer": "Frequent violator, major violation.",
+        "verbatimQuoteFromManual": "FREQUENT VIOLATOR"
+    },
+    {
+        "question": "Violation for habitually offending?",
+        "answer": "12030; Major violation.",
+        "verbatimQuoteFromManual": "HABITUAL OFFENDER"
+    }
+]
+```

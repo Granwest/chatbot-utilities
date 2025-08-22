@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is basic PIP coverage?",
+        "answer": "$10,000 medical, $2,000 funeral, $10,000 income continuation, $5,000 loss of services.",
+        "verbatimQuoteFromManual": "Basic Limits Personal Injury Protection"
+    },
+    {
+        "question": "Increased PIP limits benefits?",
+        "answer": "$35,000 medical, $2,000 funeral, $35,000 income continuation, $14,600 loss of services.",
+        "verbatimQuoteFromManual": "Increased Limits Personal Injury Protection"
+    },
+    {
+        "question": "What is form REG 335?",
+        "answer": "Loss Payable Endorsement if physical damage coverage and loss payee.",
+        "verbatimQuoteFromManual": "Loss Payable Endorsement"
+    },
+    {
+        "question": "Rejecting basic PIP coverage?",
+        "answer": "Requires written rejection; binding at all coverage levels.",
+        "verbatimQuoteFromManual": "Reject basic limits PIP Coverage"
+    },
+    {
+        "question": "What attaches to Washington PIP?",
+        "answer": "Personal Injury Protection - PP0569.",
+        "verbatimQuoteFromManual": "Attach Personal Injury Protection"
+    }
+]
+```

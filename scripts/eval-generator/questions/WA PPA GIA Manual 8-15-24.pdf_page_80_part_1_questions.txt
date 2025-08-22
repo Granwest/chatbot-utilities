@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "BI symbol 250 rating factor?",
+        "answer": "0.50",
+        "verbatimQuoteFromManual": "Rating Factor"
+    },
+    {
+        "question": "PIP/Med Pay symbol for 385?",
+        "answer": "585",
+        "verbatimQuoteFromManual": "PIP/MED PAY Symbol"
+    },
+    {
+        "question": "Factor for BI symbol 335?",
+        "answer": "1.35",
+        "verbatimQuoteFromManual": "Rating Factor"
+    },
+    {
+        "question": "BI 230 corresponds to med pay?",
+        "answer": "430",
+        "verbatimQuoteFromManual": "PIP/MED PAY Symbol"
+    },
+    {
+        "question": "What is max BI symbol?",
+        "answer": "390",
+        "verbatimQuoteFromManual": "BI & PD Symbol"
+    }
+]
+```

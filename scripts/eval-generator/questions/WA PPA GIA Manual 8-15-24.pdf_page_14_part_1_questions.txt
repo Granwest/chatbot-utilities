@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is business use?",
+        "answer": "Auto used in duties for occupation or business.",
+        "verbatimQuoteFromManual": "use of the auto is required"
+    },
+    {
+        "question": "Farm Use restrictions?",
+        "answer": "No driving to/from school or non-farming work.",
+        "verbatimQuoteFromManual": "not customarily used in going to or from work"
+    },
+    {
+        "question": "Pleasure use mileage limits?",
+        "answer": "Less than 15 miles one way and limited weekly use.",
+        "verbatimQuoteFromManual": "less than 15 road miles one way"
+    },
+    {
+        "question": "Work Less Than 15 Miles defined?",
+        "answer": "Personal use up to 15 miles one way with specific limits on frequency.",
+        "verbatimQuoteFromManual": "No BUSINESS USE"
+    },
+    {
+        "question": "Federal employees auto classification?",
+        "answer": "Rated as Pleasure, Work Less Than 15 Miles, or Work 15 Or More Miles.",
+        "verbatimQuoteFromManual": "Federal Employees Using Autos"
+    }
+]
+```

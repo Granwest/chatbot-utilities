@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Max age single vehicle?",
+        "answer": "75 years or less.",
+        "verbatimQuoteFromManual": "Max Driver Age"
+    },
+    {
+        "question": "# of young drivers impact?",
+        "answer": "More young drivers increase risk.",
+        "verbatimQuoteFromManual": "# of Young Drivers"
+    },
+    {
+        "question": "Large claim last 5 years?",
+        "answer": "1+ large claims count as risk.",
+        "verbatimQuoteFromManual": "Large (> $10K)"
+    },
+    {
+        "question": "Non-accident small claim threshold?",
+        "answer": "3+ small claims in 3 years.",
+        "verbatimQuoteFromManual": "Non Accident claims"
+    },
+    {
+        "question": "Min driver age for 88?",
+        "answer": "Must be 79 or younger.",
+        "verbatimQuoteFromManual": "Min Driver Age"
+    }
+]
+```

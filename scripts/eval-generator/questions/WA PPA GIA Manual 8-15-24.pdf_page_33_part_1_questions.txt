@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is Extended Non-Owned Coverage?",
+        "answer": "Coverage for borrowed or rented autos.",
+        "verbatimQuoteFromManual": "borrowed or rented autos"
+    },
+    {
+        "question": "What is PP0306 used for?",
+        "answer": "Coverage for vehicles for regular use.",
+        "verbatimQuoteFromManual": "Vehicles Furnished Or Available For Regular Use"
+    },
+    {
+        "question": "Percentage charge for named individual?",
+        "answer": "12% for primary liability; 90% if no primary.",
+        "verbatimQuoteFromManual": "Percentage Charge Named Individual"
+    },
+    {
+        "question": "Medical Payments Coverage extension?",
+        "answer": "Can extend if liability is extended under Extended Non-Owned Coverage.",
+        "verbatimQuoteFromManual": "Medical Payments Coverage may also be similarly extended"
+    },
+    {
+        "question": "Where are increased limit factors listed?",
+        "answer": "Displayed on rate pages in the Product Guide.",
+        "verbatimQuoteFromManual": "Displayed on the rate pages"
+    }
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is the factor code for 17-year-olds without driver training for pleasure use?",
+        "answer": "8310",
+        "verbatimQuoteFromManual": "Factor Code 8310"
+    },
+    {
+        "question": "What is the rating factor for 18-year-olds with driver training driving to work?",
+        "answer": "1.32",
+        "verbatimQuoteFromManual": "Factor Code 8324"
+    },
+    {
+        "question": "What is the factor for multi-car risk?",
+        "answer": "-0.20",
+        "verbatimQuoteFromManual": "Factor -0.20"
+    },
+    {
+        "question": "Which age group uses factor code 8318?",
+        "answer": "21 thru 24",
+        "verbatimQuoteFromManual": "Factor Code 8318"
+    },
+    {
+        "question": "What is the factor for single car risk?",
+        "answer": "0.00",
+        "verbatimQuoteFromManual": "Factor 0.00"
+    }
+]
+```

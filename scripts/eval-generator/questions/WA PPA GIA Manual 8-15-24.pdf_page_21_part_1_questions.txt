@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is 'at fault'?",
+        "answer": "Liability is 51% or greater.",
+        "verbatimQuoteFromManual": "insured driver’s liability for the accident is 51% or greater"
+    },
+    {
+        "question": "Minor violation surcharging period?",
+        "answer": "36 months before renewal date.",
+        "verbatimQuoteFromManual": "experience period for surcharging minor violations is 36 months prior"
+    },
+    {
+        "question": "How accidents are charged?",
+        "answer": "Using Comprehensive Loss and Underwriting Exchange Report.",
+        "verbatimQuoteFromManual": "Comprehensive Loss and Underwriting Exchange Report"
+    },
+    {
+        "question": "Definition of major accident surcharge?",
+        "answer": "Any reserve or payout of at least $1,000.",
+        "verbatimQuoteFromManual": "reserve of at least $1,000"
+    },
+    {
+        "question": "Multiple violations same date?",
+        "answer": "Surcharge highest rated incident.",
+        "verbatimQuoteFromManual": "surcharge only the highest rated incident"
+    }
+]
+```

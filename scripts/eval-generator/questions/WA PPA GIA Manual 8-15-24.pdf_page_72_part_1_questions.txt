@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is the tier factor for 6-6?",
+        "answer": "1.01",
+        "verbatimQuoteFromManual": "Range 6-6, Factor 1.01"
+    },
+    {
+        "question": "How many points for policy age 8-9?",
+        "answer": "3",
+        "verbatimQuoteFromManual": "Policy Age 8-9, Score 3"
+    },
+    {
+        "question": "Score for 2+ lienholder vehicles?",
+        "answer": "3",
+        "verbatimQuoteFromManual": "2+ vehicles, Score 3"
+    },
+    {
+        "question": "Non-pay reinstates in last 3 years?",
+        "answer": "7 for 1+",
+        "verbatimQuoteFromManual": "Non Pay Reinstates, 1+ Score 7"
+    },
+    {
+        "question": "Factor for tier range 8-8?",
+        "answer": "1.06",
+        "verbatimQuoteFromManual": "Range 8-8, Factor 1.06"
+    }
+]
+```

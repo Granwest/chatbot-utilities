@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is private passenger auto?",
+        "answer": "A four-wheel motor vehicle.",
+        "verbatimQuoteFromManual": "A private passenger auto"
+    },
+    {
+        "question": "Pickup as private passenger auto?",
+        "answer": "Allowed if under 13,000 lbs.",
+        "verbatimQuoteFromManual": "13,000 lbs. or less"
+    },
+    {
+        "question": "Definition of liability?",
+        "answer": "Bodily Injury and Property Damage.",
+        "verbatimQuoteFromManual": "Bodily Injury and Property Damage"
+    },
+    {
+        "question": "Gross Vehicle Weight Rating?",
+        "answer": "Maximum loaded weight for vehicle.",
+        "verbatimQuoteFromManual": "Gross Vehicle Weight Rating"
+    },
+    {
+        "question": "What is bodily injury?",
+        "answer": "Part of liability coverage.",
+        "verbatimQuoteFromManual": "Bodily Injury"
+    }
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is 41100?",
+        "answer": "Motorcycle operator wear eye helmet.",
+        "verbatimQuoteFromManual": "MCYC OPER TO WEAR HELMET"
+    },
+    {
+        "question": "Non-moving violation for littering?",
+        "answer": "Yes, code 67140 applies.",
+        "verbatimQuoteFromManual": "LITTERING"
+    },
+    {
+        "question": "Definition of 66210?",
+        "answer": "Load extending beyond vehicle.",
+        "verbatimQuoteFromManual": "LOAD EXTENDING BEYOND VEH"
+    },
+    {
+        "question": "Standard code for parking on bridge?",
+        "answer": "71120 for parked on bridge.",
+        "verbatimQuoteFromManual": "PARKED ON BRIDGE, TUNNEL, ETC"
+    },
+    {
+        "question": "What is 62120 about brakes?",
+        "answer": "It covers maintenance of brakes.",
+        "verbatimQuoteFromManual": "MAINTENANCE OF BRAKES"
+    }
+]
+```

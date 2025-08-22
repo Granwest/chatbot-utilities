@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Antique auto liability rate?",
+        "answer": "40% of private passenger base rate.",
+        "verbatimQuoteFromManual": "40% of the private"
+    },
+    {
+        "question": "Physical damage deductible options?",
+        "answer": "Comprehensive $100, Collision $200.",
+        "verbatimQuoteFromManual": "$100 Comprehensive, $200 Collision"
+    },
+    {
+        "question": "Classic auto classification?",
+        "answer": "Classify and rate as private passenger auto.",
+        "verbatimQuoteFromManual": "Classify and rate as"
+    },
+    {
+        "question": "No-Fault coverage for antique autos?",
+        "answer": "Afforded only where required.",
+        "verbatimQuoteFromManual": "afforded only where required"
+    },
+    {
+        "question": "Classic auto coverage basis?",
+        "answer": "Not provided on agreed value basis.",
+        "verbatimQuoteFromManual": "not provided on agreed"
+    }
+]
+```

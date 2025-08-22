@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "ZIP code 98403 territory?",
+        "answer": "64",
+        "verbatimQuoteFromManual": "ZIP Code 98403"
+    },
+    {
+        "question": "What territory is Olympia 98501?",
+        "answer": "73",
+        "verbatimQuoteFromManual": "98501 Olympia Territory 73"
+    },
+    {
+        "question": "ZIP code for McKenna?",
+        "answer": "98558",
+        "verbatimQuoteFromManual": "98558 McKenna"
+    },
+    {
+        "question": "Territory for ZIP 98547?",
+        "answer": "60",
+        "verbatimQuoteFromManual": "98547 Grayland Territory 60"
+    },
+    {
+        "question": "Territory for Lakewood ZIP 98499?",
+        "answer": "67",
+        "verbatimQuoteFromManual": "98499 Lakewood Territory 67"
+    }
+]
+```

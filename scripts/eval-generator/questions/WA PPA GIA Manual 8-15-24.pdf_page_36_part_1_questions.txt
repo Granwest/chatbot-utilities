@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Passenger Hazard Exclusion eligibility?",
+        "answer": "Eligible only for increased limits.",
+        "verbatimQuoteFromManual": "Passenger Hazard Exclusion"
+    },
+    {
+        "question": "Snowmobile base rate percentage?",
+        "answer": "Charge 200% of private passenger base rate.",
+        "verbatimQuoteFromManual": "Charge 200% of Private Passenger base rate"
+    },
+    {
+        "question": "Deductible for comprehensive on snowmobiles?",
+        "answer": "$100 deductible, $0.97 per $100.",
+        "verbatimQuoteFromManual": "Comprehensive $100 $0.97"
+    },
+    {
+        "question": "Split-limit liability discount factor?",
+        "answer": "50/100 limits receive 7% discount.",
+        "verbatimQuoteFromManual": "50/100 7%"
+    },
+    {
+        "question": "Medical Payments coverage limit for snowmobiles?",
+        "answer": "$1,000 limit only.",
+        "verbatimQuoteFromManual": "Medical Payments – $1,000 Limit Only"
+    }
+]
+```

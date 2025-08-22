@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Accident surcharge points?",
+        "answer": "Accidents are chargeable under DARP.",
+        "verbatimQuoteFromManual": "Accident are chargeable"
+    },
+    {
+        "question": "Classification for fatal accident?",
+        "answer": "Fatal accidents are classified as Accident.",
+        "verbatimQuoteFromManual": "Fatal Accident Involvement"
+    },
+    {
+        "question": "Administrative violations chargeable?",
+        "answer": "Administrative violations are not chargeable.",
+        "verbatimQuoteFromManual": "Administrative are not chargeable"
+    },
+    {
+        "question": "Alcohol clinic violations?",
+        "answer": "Alcohol clinic violations are Administrative.",
+        "verbatimQuoteFromManual": "Alcohol Clinic, Course, Program"
+    },
+    {
+        "question": "Property damage accident class?",
+        "answer": "Property damage accidents classified as Accident.",
+        "verbatimQuoteFromManual": "Property Damage Accident"
+    }
+]
+```

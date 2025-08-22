@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Territory for Spokane zip codes?",
+        "answer": "Territory 72",
+        "verbatimQuoteFromManual": "Spokane 72"
+    },
+    {
+        "question": "What territory is Pasco 99301?",
+        "answer": "Territory 71",
+        "verbatimQuoteFromManual": "Pasco 71"
+    },
+    {
+        "question": "Roosevelt zip code territory?",
+        "answer": "Territory 66",
+        "verbatimQuoteFromManual": "Roosevelt 66"
+    },
+    {
+        "question": "What is Walla Walla territory?",
+        "answer": "Territory 201",
+        "verbatimQuoteFromManual": "Walla Walla 201"
+    },
+    {
+        "question": "Which territory includes Othello?",
+        "answer": "Territory 202",
+        "verbatimQuoteFromManual": "Othello 202"
+    }
+]
+```

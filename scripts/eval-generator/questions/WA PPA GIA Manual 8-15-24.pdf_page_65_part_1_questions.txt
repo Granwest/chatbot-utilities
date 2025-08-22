@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Factor for pleasure use age 50-64?",
+        "answer": "0.96",
+        "verbatimQuoteFromManual": "Factor Code 8851"
+    },
+    {
+        "question": "Business use factor age 80-84?",
+        "answer": "1.71",
+        "verbatimQuoteFromManual": "Factor Code 8148"
+    },
+    {
+        "question": "Excess Autos 2 factor?",
+        "answer": "0.85",
+        "verbatimQuoteFromManual": "Factor Code 8980"
+    },
+    {
+        "question": "Farm use factor age 65-74?",
+        "answer": "0.93",
+        "verbatimQuoteFromManual": "Factor Code 8809"
+    },
+    {
+        "question": "Drive less 15 miles age 85+?",
+        "answer": "1.44",
+        "verbatimQuoteFromManual": "Factor Code 8202"
+    }
+]
+```

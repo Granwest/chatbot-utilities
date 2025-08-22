@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is 16140 withdrawal?",
+        "answer": "Failure to comply probation.",
+        "verbatimQuoteFromManual": "WITHDRAWAL-FAIL TO COMPLY PROG/PROBATION"
+    },
+    {
+        "question": "Classification for reckless operation?",
+        "answer": "Major.",
+        "verbatimQuoteFromManual": "Careless or reckless driving"
+    },
+    {
+        "question": "Code for leaving scene of accident?",
+        "answer": "16750.",
+        "verbatimQuoteFromManual": "CDL DISQUALIFICATION: LEAVING SCENE OF ACCID"
+    },
+    {
+        "question": "Violation for CDL disqualified twice?",
+        "answer": "16930.",
+        "verbatimQuoteFromManual": "CDL DISQUAL: 2 SERIOUS CONVICTIONS IN 3 YRS"
+    },
+    {
+        "question": "What is 16510 denial general?",
+        "answer": "Suspension or revocation of license.",
+        "verbatimQuoteFromManual": "DENIAL, GENERAL"
+    }
+]
+```

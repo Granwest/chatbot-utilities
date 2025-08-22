@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Territory for ZIP 98815?",
+        "answer": "200",
+        "verbatimQuoteFromManual": "98815 | Cashmere | 200"
+    },
+    {
+        "question": "What territory is Yakima in?",
+        "answer": "71",
+        "verbatimQuoteFromManual": "98901 | Yakima | 71"
+    },
+    {
+        "question": "ZIP 98862 territory?",
+        "answer": "70",
+        "verbatimQuoteFromManual": "98862 | Winthrop | 70"
+    },
+    {
+        "question": "Ellensburg territory assignment?",
+        "answer": "200",
+        "verbatimQuoteFromManual": "98926 | Ellensburg | 200"
+    },
+    {
+        "question": "Which territory covers Quincy?",
+        "answer": "200",
+        "verbatimQuoteFromManual": "98848 | Quincy | 200"
+    }
+]
+```

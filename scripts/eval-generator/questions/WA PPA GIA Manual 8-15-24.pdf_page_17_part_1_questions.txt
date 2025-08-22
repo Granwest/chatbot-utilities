@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "How is classification rating calculated?",
+        "answer": "Based on primary operator's base premium.",
+        "verbatimQuoteFromManual": "classification rating factor"
+    },
+    {
+        "question": "What if two drivers share an auto?",
+        "answer": "Classify based on driver operating auto most.",
+        "verbatimQuoteFromManual": "driver who most frequently operates"
+    },
+    {
+        "question": "Multi-car discount rules?",
+        "answer": "Applies if two or more autos insured together.",
+        "verbatimQuoteFromManual": "Multi-Car Rating Factor"
+    },
+    {
+        "question": "Excess autos classification rules?",
+        "answer": "Classify autos exceeding number of operators.",
+        "verbatimQuoteFromManual": "Excess Autos"
+    },
+    {
+        "question": "What is total base premium?",
+        "answer": "Sum of liability and coverage premiums.",
+        "verbatimQuoteFromManual": "TOTAL BASE PREMIUM"
+    }
+]
+```

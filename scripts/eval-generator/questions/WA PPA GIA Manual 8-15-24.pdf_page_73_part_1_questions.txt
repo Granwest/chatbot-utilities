@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "what is 'No Prior' BI limit?",
+        "answer": "22 points for Term 1.",
+        "verbatimQuoteFromManual": "No Prior"
+    },
+    {
+        "question": "score for vehicle age 2-6?",
+        "answer": "10 points.",
+        "verbatimQuoteFromManual": "2 - 6"
+    },
+    {
+        "question": "points for 6+ prior carriers?",
+        "answer": "8 points for Term 1.",
+        "verbatimQuoteFromManual": "6 +"
+    },
+    {
+        "question": "BI limit points for 50k-99k?",
+        "answer": "21 points for Term 1.",
+        "verbatimQuoteFromManual": "50,000 - 99,999"
+    },
+    {
+        "question": "vehicle age 20+ score?",
+        "answer": "0 points.",
+        "verbatimQuoteFromManual": "20 +"
+    }
+]
+```

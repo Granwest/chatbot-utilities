@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Speeding 21-25 over limit?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "Speeding 21 mph and over"
+    },
+    {
+        "question": "Classification for speeding 20 and under?",
+        "answer": "Minor violation.",
+        "verbatimQuoteFromManual": "Speeding 20 mph and under"
+    },
+    {
+        "question": "Speed in excess of 100 mph?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "Speeding 21 mph and over"
+    },
+    {
+        "question": "Special speed limitations on bridges?",
+        "answer": "Minor violation.",
+        "verbatimQuoteFromManual": "Speeding 20 mph and under"
+    },
+    {
+        "question": "Speed limit 36-40 over?",
+        "answer": "Major violation.",
+        "verbatimQuoteFromManual": "Speeding 21 mph and over"
+    }
+]
+```

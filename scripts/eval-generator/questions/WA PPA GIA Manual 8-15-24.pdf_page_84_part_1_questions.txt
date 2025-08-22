@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Collision relativity for symbol 14 in 2023?",
+        "answer": "1.27",
+        "verbatimQuoteFromManual": "1.27"
+    },
+    {
+        "question": "Which symbol has relativity 0.99 in 2025?",
+        "answer": "Symbol 8",
+        "verbatimQuoteFromManual": "0.99"
+    },
+    {
+        "question": "Symbol 1 relativity for 2021?",
+        "answer": "0.33",
+        "verbatimQuoteFromManual": "0.33"
+    },
+    {
+        "question": "Relativity of symbol 22 in 2016?",
+        "answer": "0.66",
+        "verbatimQuoteFromManual": "0.66"
+    },
+    {
+        "question": "Highest relativity for symbol 30?",
+        "answer": "1.62 in 2027",
+        "verbatimQuoteFromManual": "1.62"
+    }
+]
+```

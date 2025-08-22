@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Comprehensive relativities for 2027 symbol 1?",
+        "answer": "0.33",
+        "verbatimQuoteFromManual": "0.33"
+    },
+    {
+        "question": "2021 relativities for symbol 10?",
+        "answer": "0.81",
+        "verbatimQuoteFromManual": "0.81"
+    },
+    {
+        "question": "Symbol 20 relativities for 2018?",
+        "answer": "1.21",
+        "verbatimQuoteFromManual": "1.21"
+    },
+    {
+        "question": "Highest relativity value in table?",
+        "answer": "2.86",
+        "verbatimQuoteFromManual": "2.86"
+    },
+    {
+        "question": "What is symbol 28 for 2023?",
+        "answer": "1.94",
+        "verbatimQuoteFromManual": "1.94"
+    }
+]
+```

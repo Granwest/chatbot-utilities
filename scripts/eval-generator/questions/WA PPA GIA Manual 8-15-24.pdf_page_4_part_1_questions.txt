@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is Auto Loan Coverage?",
+        "answer": "Coverage for outstanding auto loan balance.",
+        "verbatimQuoteFromManual": "Auto Loan Coverage"
+    },
+    {
+        "question": "What are increased limits?",
+        "answer": "Higher coverage limits than base amounts.",
+        "verbatimQuoteFromManual": "INCREASED LIMITS"
+    },
+    {
+        "question": "What is Excess Electronic Equipment?",
+        "answer": "Coverage for non-factory-installed electronics.",
+        "verbatimQuoteFromManual": "Excess Electronic Equipment"
+    },
+    {
+        "question": "What qualifies as Classic Autos?",
+        "answer": "Vehicles meeting specific age/classic criteria.",
+        "verbatimQuoteFromManual": "Classic Autos"
+    },
+    {
+        "question": "What are GIA Class Plans?",
+        "answer": "Rating plans for classifying drivers.",
+        "verbatimQuoteFromManual": "GIA CLASS PLANS"
+    }
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is violation code 12120?",
+        "answer": "Expired license.",
+        "verbatimQuoteFromManual": "EXPIRED LICENSE"
+    },
+    {
+        "question": "What does violation 16540 mean?",
+        "answer": "Failed field examination.",
+        "verbatimQuoteFromManual": "FAILED FIELD EXAMINATION"
+    },
+    {
+        "question": "What does code 19350 represent?",
+        "answer": "Fee due.",
+        "verbatimQuoteFromManual": "FEE DUE"
+    },
+    {
+        "question": "What is violation 18340?",
+        "answer": "No action.",
+        "verbatimQuoteFromManual": "NO ACTION"
+    },
+    {
+        "question": "Explain 21130 violation.",
+        "answer": "Owner shall return registration if insurance canceled.",
+        "verbatimQuoteFromManual": "OWNER SHALL RET REG IF INS CANC"
+    }
+]
+```

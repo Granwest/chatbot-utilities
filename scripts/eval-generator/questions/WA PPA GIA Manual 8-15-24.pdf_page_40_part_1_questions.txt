@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Territory for ZIP 98056?",
+        "answer": "Territory 52",
+        "verbatimQuoteFromManual": "98056 Snoqualmie, Territory 52"
+    },
+    {
+        "question": "ZIP codes in Territory 55?",
+        "answer": "98012, 98020, 98036, 98037, 98043, 98046",
+        "verbatimQuoteFromManual": "Territory 55, ZIP codes"
+    },
+    {
+        "question": "Which ZIP is Territory 71?",
+        "answer": "98068",
+        "verbatimQuoteFromManual": "98068 Snoqualmie, Territory 71"
+    },
+    {
+        "question": "What territory is 98105?",
+        "answer": "Territory 58",
+        "verbatimQuoteFromManual": "98105 Seattle, Territory 58"
+    },
+    {
+        "question": "ZIP codes in Territory 51?",
+        "answer": "98001, 98057, 98058, 98064, 98093, 98121",
+        "verbatimQuoteFromManual": "Territory 51, ZIP codes"
+    }
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is pro rata ratio for May 1?",
+        "answer": "0.332",
+        "verbatimQuoteFromManual": "Day of Month 1 Ratio 0.332"
+    },
+    {
+        "question": "June 10 cancellation ratio?",
+        "answer": "0.441",
+        "verbatimQuoteFromManual": "Day of Month 10 Ratio 0.441"
+    },
+    {
+        "question": "April 15 cancellation proration?",
+        "answer": "0.285",
+        "verbatimQuoteFromManual": "Day of Month 15 Ratio 0.285"
+    },
+    {
+        "question": "Rate for cancellation on January 31?",
+        "answer": "0.085",
+        "verbatimQuoteFromManual": "Day of Month 31 Ratio 0.085"
+    },
+    {
+        "question": "How is February 4 prorated?",
+        "answer": "0.035",
+        "verbatimQuoteFromManual": "Day of Month 4 Ratio 0.035"
+    }
+]
+```

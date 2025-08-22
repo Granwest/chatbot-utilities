@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "OEM coverage eligibility timeframe",
+        "answer": "Until 11 years from model year.",
+        "verbatimQuoteFromManual": "eleventh year of the vehicle"
+    },
+    {
+        "question": "Auto loan coverage eligibility",
+        "answer": "Only for private passenger vehicles.",
+        "verbatimQuoteFromManual": "private passenger auto"
+    },
+    {
+        "question": "Rate for auto loan coverage",
+        "answer": "10% of Comprehensive or Collision premium.",
+        "verbatimQuoteFromManual": "Charge 10% of the Comprehensive"
+    },
+    {
+        "question": "Customized van base rate calculation",
+        "answer": "Based on original cost and symbol.",
+        "verbatimQuoteFromManual": "Determine the Original Cost"
+    },
+    {
+        "question": "Endorsement for excess electronic equipment",
+        "answer": "PP1375 is required.",
+        "verbatimQuoteFromManual": "PP1375 endorsement to the policy"
+    }
+]
+```

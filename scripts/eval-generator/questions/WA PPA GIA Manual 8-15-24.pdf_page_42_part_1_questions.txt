@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Territory for Anderson Island?",
+        "answer": "67",
+        "verbatimQuoteFromManual": "Anderson Island 67"
+    },
+    {
+        "question": "ZIP code 98370 territory?",
+        "answer": "60",
+        "verbatimQuoteFromManual": "98370 Poulsbo 60"
+    },
+    {
+        "question": "What territory is Ashford in?",
+        "answer": "53",
+        "verbatimQuoteFromManual": "Ashford 53"
+    },
+    {
+        "question": "Gig Harbor ZIP 98332 territory?",
+        "answer": "57",
+        "verbatimQuoteFromManual": "98332 Gig Harbor 57"
+    },
+    {
+        "question": "New ZIP 98289 territory?",
+        "answer": "53",
+        "verbatimQuoteFromManual": "98289 Snohomish 53"
+    }
+]
+```

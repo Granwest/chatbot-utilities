@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "PD base rate for Territory 56?",
+        "answer": "149.26",
+        "verbatimQuoteFromManual": "Territory 56"
+    },
+    {
+        "question": "PD increased limit factor for 250?",
+        "answer": "1.22",
+        "verbatimQuoteFromManual": "PD increased limit factors"
+    },
+    {
+        "question": "Statewide UIM-PD base rate for multicars?",
+        "answer": "6.88",
+        "verbatimQuoteFromManual": "MULTICAR"
+    },
+    {
+        "question": "UIM-PD limit factor for 100?",
+        "answer": "1.564",
+        "verbatimQuoteFromManual": "UIM-PD increased limit factors"
+    },
+    {
+        "question": "PD base rate for Territory 61?",
+        "answer": "207.37",
+        "verbatimQuoteFromManual": "Territory 61"
+    }
+]
+```

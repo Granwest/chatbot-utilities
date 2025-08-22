@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Washington private passenger auto rules?",
+        "answer": "Rules apply to Washington auto policies.",
+        "verbatimQuoteFromManual": "PRIVATE PASSENGER AUTO RATES"
+    },
+    {
+        "question": "Edition for Washington auto rates?",
+        "answer": "8/15/24 Edition.",
+        "verbatimQuoteFromManual": "8/15/24 Edition"
+    },
+    {
+        "question": "Who provides auto rates manual?",
+        "answer": "Grange Insurance Association.",
+        "verbatimQuoteFromManual": "Grange Insurance Association"
+    },
+    {
+        "question": "Territorial rules for Washington?",
+        "answer": "Territorial rules apply to Washington policies.",
+        "verbatimQuoteFromManual": "WASHINGTON"
+    },
+    {
+        "question": "What vehicle type rules apply?",
+        "answer": "Private passenger vehicles.",
+        "verbatimQuoteFromManual": "PRIVATE PASSENGER AUTO RATES"
+    }
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is violation 37210?",
+        "answer": "Passing on RT Proh; Unsafe Passing.",
+        "verbatimQuoteFromManual": "PASSING ON RT PROH; UNSAFE PASSING"
+    },
+    {
+        "question": "Violation code for unsafe lane change?",
+        "answer": "33330.",
+        "verbatimQuoteFromManual": "UNSAFE LANE CHNG"
+    },
+    {
+        "question": "Texting under violation codes?",
+        "answer": "68740.",
+        "verbatimQuoteFromManual": "TEXTING VIOLATIONS"
+    },
+    {
+        "question": "What does code 1130 mean?",
+        "answer": "State Code/Description Not Valid.",
+        "verbatimQuoteFromManual": "STATE CODE/DESCRIPTION NOT VALID"
+    },
+    {
+        "question": "Classification for violation 34140?",
+        "answer": "Minor.",
+        "verbatimQuoteFromManual": "Minor"
+    }
+]
+```

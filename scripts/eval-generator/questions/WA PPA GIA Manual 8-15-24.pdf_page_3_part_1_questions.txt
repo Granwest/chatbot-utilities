@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "How does base rate vary by territory?",
+        "answer": "Base rates depend on territory.",
+        "verbatimQuoteFromManual": "base rates vary by territory"
+    },
+    {
+        "question": "Definition of DARP?",
+        "answer": "Driving Activity Rating Plan.",
+        "verbatimQuoteFromManual": "definition of DARP"
+    },
+    {
+        "question": "What are safety equipment discounts?",
+        "answer": "Discount for vehicles with safety equipment.",
+        "verbatimQuoteFromManual": "safety equipment discounts"
+    },
+    {
+        "question": "What does multi-policy discount mean?",
+        "answer": "Discount for holding multiple policies.",
+        "verbatimQuoteFromManual": "multi policy discount"
+    },
+    {
+        "question": "Minimum premium rule purpose?",
+        "answer": "Ensures minimum premium is charged.",
+        "verbatimQuoteFromManual": "minimum premium rule"
+    }
+]
+```

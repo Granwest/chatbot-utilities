@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Excess sound equipment rates?",
+        "answer": "$20.56 per each $500 over $5,000",
+        "verbatimQuoteFromManual": "$20.56 per each $500"
+    },
+    {
+        "question": "Tapes coverage limit?",
+        "answer": "$200 worth with $6.86 rate per auto",
+        "verbatimQuoteFromManual": "$200 worth of tapes"
+    },
+    {
+        "question": "OEM coverage factor?",
+        "answer": "1.10 for comprehensive and collision",
+        "verbatimQuoteFromManual": "Factor 1.10"
+    },
+    {
+        "question": "Trip interruption premium?",
+        "answer": "$6.53 for $600 limit",
+        "verbatimQuoteFromManual": "$6.53 for $600"
+    },
+    {
+        "question": "Excess electronic equipment classifications?",
+        "answer": "Classifications do not apply",
+        "verbatimQuoteFromManual": "Classifications do not apply"
+    }
+]
+```

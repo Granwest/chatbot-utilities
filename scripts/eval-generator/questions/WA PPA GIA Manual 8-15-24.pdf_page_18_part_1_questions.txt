@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Driver training hours required?",
+        "answer": "30 hours classroom + 6 driving.",
+        "verbatimQuoteFromManual": "30 clock hours of classroom."
+    },
+    {
+        "question": "Good Student discount age limit?",
+        "answer": "16 through 24 years of age.",
+        "verbatimQuoteFromManual": "16 through 24 years of age."
+    },
+    {
+        "question": "Top 20% grade qualification?",
+        "answer": "Proof student is in top 20%.",
+        "verbatimQuoteFromManual": "In the upper 20% scholastically."
+    },
+    {
+        "question": "Minimum grade for numerical grading?",
+        "answer": "At least a 3 on 4-point scale.",
+        "verbatimQuoteFromManual": "A minimum of 3 in a 4, 3, 2, 1."
+    },
+    {
+        "question": "Satisfactory Evidence for driver training?",
+        "answer": "Certificate signed by school official.",
+        "verbatimQuoteFromManual": "Certificate signed by a school official."
+    }
+]
+```

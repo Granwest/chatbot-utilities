@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Coverage for business trailers?",
+        "answer": "Not covered for business use.",
+        "verbatimQuoteFromManual": "Used for business purposes"
+    },
+    {
+        "question": "Farm wagons liability coverage?",
+        "answer": "Covered without extra premium charge.",
+        "verbatimQuoteFromManual": "without additional premium charge"
+    },
+    {
+        "question": "Physical damage to camper bodies?",
+        "answer": "Must be insured separately, agreed value not provided.",
+        "verbatimQuoteFromManual": "Coverage is not provided"
+    },
+    {
+        "question": "Define recreational trailer?",
+        "answer": "Non-self-propelled with living quarters.",
+        "verbatimQuoteFromManual": "non-self-propelled recreational unit"
+    },
+    {
+        "question": "Collision coverage for trailers?",
+        "answer": "$0.38 for $200 deductible.",
+        "verbatimQuoteFromManual": "$200 Deductible Collision"
+    }
+]
+```

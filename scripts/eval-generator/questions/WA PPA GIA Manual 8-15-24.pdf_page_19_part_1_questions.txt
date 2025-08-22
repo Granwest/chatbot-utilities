@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Anti-theft device discount amount?",
+        "answer": "5% or 15% depending on device type.",
+        "verbatimQuoteFromManual": "Comprehensive Coverage shall"
+    },
+    {
+        "question": "Discount for passive disabling devices?",
+        "answer": "15% on Comprehensive Coverage.",
+        "verbatimQuoteFromManual": "Passive Disabling Devices"
+    },
+    {
+        "question": "Air bag discount rate?",
+        "answer": "20% or 30% depending on installation.",
+        "verbatimQuoteFromManual": "Passive Restraint and Air Bag"
+    },
+    {
+        "question": "Anti-lock braking system discount?",
+        "answer": "5% for Bodily Injury and Property Damage Liability.",
+        "verbatimQuoteFromManual": "Anti-Lock Braking System"
+    },
+    {
+        "question": "Caps or bedliners premium charge?",
+        "answer": "No additional premium charge.",
+        "verbatimQuoteFromManual": "Coverage for caps, covers"
+    }
+]
+```

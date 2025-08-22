@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What territory is ZIP 99030?",
+        "answer": "Territory 72.",
+        "verbatimQuoteFromManual": "99030 Rockford 72"
+    },
+    {
+        "question": "ZIP 99169 belongs to what territory?",
+        "answer": "Territory 202.",
+        "verbatimQuoteFromManual": "99169 Ritzville 202"
+    },
+    {
+        "question": "Territory for Spokane ZIP codes?",
+        "answer": "Territory 72.",
+        "verbatimQuoteFromManual": "99201 Spokane 72"
+    },
+    {
+        "question": "ZIP 99134 classification?",
+        "answer": "Territory 202.",
+        "verbatimQuoteFromManual": "99134 Harrington 202"
+    },
+    {
+        "question": "What territory is ZIP 99141?",
+        "answer": "Territory 70.",
+        "verbatimQuoteFromManual": "99141 Kettle Falls 70"
+    }
+]
+```

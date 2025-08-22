@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "How is semi-annual collision base rate calculated?",
+        "answer": "Base Rate x Collision Relativity x Deductible Factor.",
+        "verbatimQuoteFromManual": "semi annual collision base rate"
+    },
+    {
+        "question": "What is the 1980 & prior relativity for symbol 7?",
+        "answer": "0.34.",
+        "verbatimQuoteFromManual": "1980 & prior"
+    },
+    {
+        "question": "What is the deductible factor for $500?",
+        "answer": "0.88.",
+        "verbatimQuoteFromManual": "Deductible Factor"
+    },
+    {
+        "question": "Base rate for territory 55?",
+        "answer": "438.25.",
+        "verbatimQuoteFromManual": "Territorial Semi Annual Base Rate"
+    },
+    {
+        "question": "How are 2027 relativities calculated?",
+        "answer": "1.08 x 1.04 rounded to two decimals.",
+        "verbatimQuoteFromManual": "2027 relativities"
+    }
+]
+```

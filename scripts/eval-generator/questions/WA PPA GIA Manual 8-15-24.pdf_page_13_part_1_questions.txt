@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Primary classification factors?",
+        "answer": "Age, sex, marital status, vehicle use.",
+        "verbatimQuoteFromManual": "age, sex and marital status"
+    },
+    {
+        "question": "What is secondary classification?",
+        "answer": "Single car or part of multi-car risk.",
+        "verbatimQuoteFromManual": "a single car, or part of a multi-car risk"
+    },
+    {
+        "question": "Farm family auto rules?",
+        "answer": "Not experience rated; specific use restrictions apply.",
+        "verbatimQuoteFromManual": "Not experience rated"
+    },
+    {
+        "question": "Mid-term changes allowed?",
+        "answer": "No changes mid-term for operator age.",
+        "verbatimQuoteFromManual": "policy shall not be changed mid-term"
+    },
+    {
+        "question": "Policy adjustments possible?",
+        "answer": "Pro rata basis adjustments allowed.",
+        "verbatimQuoteFromManual": "compute premium adjustments on a pro rata basis"
+    }
+]
+```

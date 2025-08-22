@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is credit band 100 factor?",
+        "answer": "1.199",
+        "verbatimQuoteFromManual": "Credit Band Factor"
+    },
+    {
+        "question": "From score for band 129?",
+        "answer": "754",
+        "verbatimQuoteFromManual": "From Score"
+    },
+    {
+        "question": "Factor for credit band 150?",
+        "answer": "0.895",
+        "verbatimQuoteFromManual": "Credit Band Factor"
+    },
+    {
+        "question": "No score factor?",
+        "answer": "1.000",
+        "verbatimQuoteFromManual": "No Score"
+    },
+    {
+        "question": "Credit band for score 922?",
+        "answer": "159",
+        "verbatimQuoteFromManual": "Credit Band"
+    }
+]
+```

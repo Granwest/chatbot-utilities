@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is territory 56 rate?",
+        "answer": "184.55",
+        "verbatimQuoteFromManual": "184.55"
+    },
+    {
+        "question": "Symbol relativity for 1990-2010, Symbol 15?",
+        "answer": "1.15",
+        "verbatimQuoteFromManual": "1.15"
+    },
+    {
+        "question": "Deductible factor for $500?",
+        "answer": "0.64",
+        "verbatimQuoteFromManual": "0.64"
+    },
+    {
+        "question": "Territory base rate for area 71?",
+        "answer": "129.19",
+        "verbatimQuoteFromManual": "129.19"
+    },
+    {
+        "question": "Relativity for 1980 & prior, Symbol 11?",
+        "answer": "0.55",
+        "verbatimQuoteFromManual": "0.55"
+    }
+]
+```

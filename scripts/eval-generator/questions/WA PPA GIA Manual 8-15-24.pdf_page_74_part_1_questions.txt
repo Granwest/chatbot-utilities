@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Score for 85-year-old driver?",
+        "answer": "14",
+        "verbatimQuoteFromManual": "85 + 14"
+    },
+    {
+        "question": "Score for 3 young drivers?",
+        "answer": "9",
+        "verbatimQuoteFromManual": "3+ Young Drivers 9"
+    },
+    {
+        "question": "Vehicles score for 1-2 cars?",
+        "answer": "6",
+        "verbatimQuoteFromManual": "# of Vehicles 1-2 Score 6"
+    },
+    {
+        "question": "Not at fault small claim score?",
+        "answer": "4",
+        "verbatimQuoteFromManual": "Small (< $1K) Score 4"
+    },
+    {
+        "question": "Non-accident claim, 3 small scores?",
+        "answer": "6",
+        "verbatimQuoteFromManual": "3+ Small (< $1K) Score 6"
+    }
+]
+```

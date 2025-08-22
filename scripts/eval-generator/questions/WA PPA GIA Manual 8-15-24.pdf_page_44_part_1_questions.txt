@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is the territory for ZIP 98595?",
+        "answer": "60",
+        "verbatimQuoteFromManual": "ZIP 98595 Westport 60"
+    },
+    {
+        "question": "Is ZIP 98665 considered Vancouver?",
+        "answer": "Yes, territory 68",
+        "verbatimQuoteFromManual": "ZIP 98665 Vancouver 68"
+    },
+    {
+        "question": "Which territory is assigned to Underwood?",
+        "answer": "63",
+        "verbatimQuoteFromManual": "ZIP 98651 Underwood 63"
+    },
+    {
+        "question": "Where is ZIP 98671, Washougal?",
+        "answer": "Territory 63",
+        "verbatimQuoteFromManual": "ZIP 98671 Washougal 63"
+    },
+    {
+        "question": "Territory for ZIP 98614 Chinook?",
+        "answer": "60",
+        "verbatimQuoteFromManual": "ZIP 98614 Chinook 60"
+    }
+]
+```

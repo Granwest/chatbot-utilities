@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "GIA rate for $100 comp trailers?",
+        "answer": "0.29",
+        "verbatimQuoteFromManual": "GIA Rate 0.29"
+    },
+    {
+        "question": "Snowmobile collision GIA rate $200?",
+        "answer": "0.82",
+        "verbatimQuoteFromManual": "GIA Rate 0.82"
+    },
+    {
+        "question": "Golf cart liability percentage?",
+        "answer": "15% of base rate",
+        "verbatimQuoteFromManual": "Charge 15% of base rate"
+    },
+    {
+        "question": "Dune buggy comp $200 deductible?",
+        "answer": "1.02",
+        "verbatimQuoteFromManual": "GIA Rate 1.02"
+    },
+    {
+        "question": "Antique auto liability percentage?",
+        "answer": "40% of base rate",
+        "verbatimQuoteFromManual": "Charge 40% of base rate"
+    }
+]
+```

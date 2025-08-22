@@ -1,0 +1,445 @@
+{"question": "medical payments coverage rate factor", "answer": "Multiply $10,000 PIP rate by 0.234.", "verbatimQuoteFromManual": "0.234", "pageNumber": "10"}
+{"question": "how is the surcharge applied?", "answer": "Applied to liability premium.", "verbatimQuoteFromManual": "applied to liability premium", "pageNumber": "10"}
+{"question": "annual policies premium calculation", "answer": "Multiply total premium by 2.00.", "verbatimQuoteFromManual": "Multiply total premium by 2.00", "pageNumber": "10"}
+{"question": "how is vehicle tier score calculated?", "answer": "Add points for each characteristic.", "verbatimQuoteFromManual": "adding up the points", "pageNumber": "10"}
+{"question": "late pays calculation criteria", "answer": "Over 3 days late.", "verbatimQuoteFromManual": "only those over 3 days late", "pageNumber": "10"}
+{"question": "Prior BI limits under $50k?", "answer": "Point value is 3.", "verbatimQuoteFromManual": "< 50,000", "pageNumber": "11"}
+{"question": "Vehicle age 14-15 years?", "answer": "Point value is 16.", "verbatimQuoteFromManual": "14 - 15", "pageNumber": "11"}
+{"question": "6+ prior carriers rule?", "answer": "Point value is 6.", "verbatimQuoteFromManual": "6 +", "pageNumber": "11"}
+{"question": "BI limits $100k-$249k?", "answer": "Point value is 5.", "verbatimQuoteFromManual": "100,000 - 249,999", "pageNumber": "11"}
+{"question": "Vehicle age 0-1 years?", "answer": "Point value is 11.", "verbatimQuoteFromManual": "0 - 1", "pageNumber": "11"}
+{"question": "Max age single vehicle?", "answer": "75 years or less.", "verbatimQuoteFromManual": "Max Driver Age", "pageNumber": "12"}
+{"question": "# of young drivers impact?", "answer": "More young drivers increase risk.", "verbatimQuoteFromManual": "# of Young Drivers", "pageNumber": "12"}
+{"question": "Large claim last 5 years?", "answer": "1+ large claims count as risk.", "verbatimQuoteFromManual": "Large (> $10K)", "pageNumber": "12"}
+{"question": "Non-accident small claim threshold?", "answer": "3+ small claims in 3 years.", "verbatimQuoteFromManual": "Non Accident claims", "pageNumber": "12"}
+{"question": "Min driver age for 88?", "answer": "Must be 79 or younger.", "verbatimQuoteFromManual": "Min Driver Age", "pageNumber": "12"}
+{"question": "Primary classification factors?", "answer": "Age, sex, marital status, vehicle use.", "verbatimQuoteFromManual": "age, sex and marital status", "pageNumber": "13"}
+{"question": "What is secondary classification?", "answer": "Single car or part of multi-car risk.", "verbatimQuoteFromManual": "a single car, or part of a multi-car risk", "pageNumber": "13"}
+{"question": "Farm family auto rules?", "answer": "Not experience rated; specific use restrictions apply.", "verbatimQuoteFromManual": "Not experience rated", "pageNumber": "13"}
+{"question": "Mid-term changes allowed?", "answer": "No changes mid-term for operator age.", "verbatimQuoteFromManual": "policy shall not be changed mid-term", "pageNumber": "13"}
+{"question": "Policy adjustments possible?", "answer": "Pro rata basis adjustments allowed.", "verbatimQuoteFromManual": "compute premium adjustments on a pro rata basis", "pageNumber": "13"}
+{"question": "What is business use?", "answer": "Auto used in duties for occupation or business.", "verbatimQuoteFromManual": "use of the auto is required", "pageNumber": "14"}
+{"question": "Farm Use restrictions?", "answer": "No driving to/from school or non-farming work.", "verbatimQuoteFromManual": "not customarily used in going to or from work", "pageNumber": "14"}
+{"question": "Pleasure use mileage limits?", "answer": "Less than 15 miles one way and limited weekly use.", "verbatimQuoteFromManual": "less than 15 road miles one way", "pageNumber": "14"}
+{"question": "Work Less Than 15 Miles defined?", "answer": "Personal use up to 15 miles one way with specific limits on frequency.", "verbatimQuoteFromManual": "No BUSINESS USE", "pageNumber": "14"}
+{"question": "Federal employees auto classification?", "answer": "Rated as Pleasure, Work Less Than 15 Miles, or Work 15 Or More Miles.", "verbatimQuoteFromManual": "Federal Employees Using Autos", "pageNumber": "14"}
+{"question": "What is a youthful operator?", "answer": "Unmarried under 30 or married under 25.", "verbatimQuoteFromManual": "Youthful Operator means", "pageNumber": "15"}
+{"question": "No youthful operator classification?", "answer": "Not applicable for ages 30+.", "verbatimQuoteFromManual": "No Youthful Operator classification", "pageNumber": "15"}
+{"question": "Definition of married?", "answer": "Living with spouse, custody exception.", "verbatimQuoteFromManual": "married means a married person", "pageNumber": "15"}
+{"question": "How is age defined?", "answer": "Age on the last birthday.", "verbatimQuoteFromManual": "age attained on the last birthday", "pageNumber": "15"}
+{"question": "Student over 100 miles?", "answer": "Rated as married if unmarried.", "verbatimQuoteFromManual": "student residing over 100 road miles", "pageNumber": "15"}
+{"question": "What if youthful operator classification?", "answer": "Applies to autos with youthful operators.", "verbatimQuoteFromManual": "Youthful Operator classification", "pageNumber": "16"}
+{"question": "Assign operators for multi-car risks?", "answer": "Assign operators to autos they customarily operate.", "verbatimQuoteFromManual": "customarily operates", "pageNumber": "16"}
+{"question": "Excess autos classification rule?", "answer": "Excess Autos 1 classification applies.", "verbatimQuoteFromManual": "Excess Autos 1 classification", "pageNumber": "16"}
+{"question": "Driver with highest rating factor?", "answer": "Used for classification rating factor.", "verbatimQuoteFromManual": "highest primary rating factor", "pageNumber": "16"}
+{"question": "Youthful operator with multiple autos?", "answer": "Assign to auto with highest Total Base Premium.", "verbatimQuoteFromManual": "highest Total Base Premium", "pageNumber": "16"}
+{"question": "How is classification rating calculated?", "answer": "Based on primary operator's base premium.", "verbatimQuoteFromManual": "classification rating factor", "pageNumber": "17"}
+{"question": "What if two drivers share an auto?", "answer": "Classify based on driver operating auto most.", "verbatimQuoteFromManual": "driver who most frequently operates", "pageNumber": "17"}
+{"question": "Multi-car discount rules?", "answer": "Applies if two or more autos insured together.", "verbatimQuoteFromManual": "Multi-Car Rating Factor", "pageNumber": "17"}
+{"question": "Excess autos classification rules?", "answer": "Classify autos exceeding number of operators.", "verbatimQuoteFromManual": "Excess Autos", "pageNumber": "17"}
+{"question": "What is total base premium?", "answer": "Sum of liability and coverage premiums.", "verbatimQuoteFromManual": "TOTAL BASE PREMIUM", "pageNumber": "17"}
+{"question": "Driver training hours required?", "answer": "30 hours classroom + 6 driving.", "verbatimQuoteFromManual": "30 clock hours of classroom.", "pageNumber": "18"}
+{"question": "Good Student discount age limit?", "answer": "16 through 24 years of age.", "verbatimQuoteFromManual": "16 through 24 years of age.", "pageNumber": "18"}
+{"question": "Top 20% grade qualification?", "answer": "Proof student is in top 20%.", "verbatimQuoteFromManual": "In the upper 20% scholastically.", "pageNumber": "18"}
+{"question": "Minimum grade for numerical grading?", "answer": "At least a 3 on 4-point scale.", "verbatimQuoteFromManual": "A minimum of 3 in a 4, 3, 2, 1.", "pageNumber": "18"}
+{"question": "Satisfactory Evidence for driver training?", "answer": "Certificate signed by school official.", "verbatimQuoteFromManual": "Certificate signed by a school official.", "pageNumber": "18"}
+{"question": "Anti-theft device discount amount?", "answer": "5% or 15% depending on device type.", "verbatimQuoteFromManual": "Comprehensive Coverage shall", "pageNumber": "19"}
+{"question": "Discount for passive disabling devices?", "answer": "15% on Comprehensive Coverage.", "verbatimQuoteFromManual": "Passive Disabling Devices", "pageNumber": "19"}
+{"question": "Air bag discount rate?", "answer": "20% or 30% depending on installation.", "verbatimQuoteFromManual": "Passive Restraint and Air Bag", "pageNumber": "19"}
+{"question": "Anti-lock braking system discount?", "answer": "5% for Bodily Injury and Property Damage Liability.", "verbatimQuoteFromManual": "Anti-Lock Braking System", "pageNumber": "19"}
+{"question": "Caps or bedliners premium charge?", "answer": "No additional premium charge.", "verbatimQuoteFromManual": "Coverage for caps, covers", "pageNumber": "19"}
+{"question": "Effective date for new business?", "answer": "12-1-24.", "verbatimQuoteFromManual": "12-1-24 New Business", "pageNumber": "1"}
+{"question": "Rate impact percentage of revisions?", "answer": "+2.6%.", "verbatimQuoteFromManual": "overall rate impact of +2.6%", "pageNumber": "1"}
+{"question": "What was revised for PIP?", "answer": "PIP & Medical Base Rates.", "verbatimQuoteFromManual": "PIP & Medical Base Rates", "pageNumber": "1"}
+{"question": "What pages cover collision relativities?", "answer": "R-20, R-21, R-22.", "verbatimQuoteFromManual": "R-20, R-21, R-22", "pageNumber": "1"}
+{"question": "Who is the contact for forms?", "answer": "Ann Van Hollebeke.", "verbatimQuoteFromManual": "Ann Van Hollebeke", "pageNumber": "1"}
+{"question": "Motor Vehicle Accident Prevention Discount amount?", "answer": "4% discount applies to premium.", "verbatimQuoteFromManual": "4% Motor Vehicle Accident", "pageNumber": "20"}
+{"question": "Requirements for Accident Prevention Discount?", "answer": "Driver must be 55+ with valid certificate.", "verbatimQuoteFromManual": "Age 55 or older", "pageNumber": "20"}
+{"question": "Accident-Free Discount max percentage?", "answer": "6% discount after 3 accident-free years.", "verbatimQuoteFromManual": "Discount 6%", "pageNumber": "20"}
+{"question": "Definition of chargeable accident?", "answer": "Driver more than 50% at fault causing damage.", "verbatimQuoteFromManual": "chargeable accident", "pageNumber": "20"}
+{"question": "Employee discount percentage?", "answer": "10% off base premium.", "verbatimQuoteFromManual": "10% discount off", "pageNumber": "20"}
+{"question": "What is 'at fault'?", "answer": "Liability is 51% or greater.", "verbatimQuoteFromManual": "insured driver’s liability for the accident is 51% or greater", "pageNumber": "21"}
+{"question": "Minor violation surcharging period?", "answer": "36 months before renewal date.", "verbatimQuoteFromManual": "experience period for surcharging minor violations is 36 months prior", "pageNumber": "21"}
+{"question": "How accidents are charged?", "answer": "Using Comprehensive Loss and Underwriting Exchange Report.", "verbatimQuoteFromManual": "Comprehensive Loss and Underwriting Exchange Report", "pageNumber": "21"}
+{"question": "Definition of major accident surcharge?", "answer": "Any reserve or payout of at least $1,000.", "verbatimQuoteFromManual": "reserve of at least $1,000", "pageNumber": "21"}
+{"question": "Multiple violations same date?", "answer": "Surcharge highest rated incident.", "verbatimQuoteFromManual": "surcharge only the highest rated incident", "pageNumber": "21"}
+{"question": "How are surcharge points assigned?", "answer": "Assigned to the vehicle rated on.", "verbatimQuoteFromManual": "Assign the surcharge", "pageNumber": "22"}
+{"question": "What happens to surcharges at renewal?", "answer": "Added at policy renewal date only.", "verbatimQuoteFromManual": "added at policy renewal date", "pageNumber": "22"}
+{"question": "What if a driver is excluded?", "answer": "Excluded drivers are not subject to DARP surcharge.", "verbatimQuoteFromManual": "specifically excluded from the policy", "pageNumber": "22"}
+{"question": "Model year for rebuilt autos?", "answer": "Determined by chassis model year.", "verbatimQuoteFromManual": "model year of the chassis", "pageNumber": "22"}
+{"question": "Rates missing for model year?", "answer": "Use rates for latest model year.", "verbatimQuoteFromManual": "rates shown for the latest model year", "pageNumber": "22"}
+{"question": "Minimum policy premium charge?", "answer": "6 months: $50; 12 months: $100", "verbatimQuoteFromManual": "Minimum policy premium charge", "pageNumber": "23"}
+{"question": "Pro rata basis adjustment?", "answer": "Applied for cancellation or short term policy", "verbatimQuoteFromManual": "pro rata or short rate basis", "pageNumber": "23"}
+{"question": "Coverage for 29th-31st effective date?", "answer": "Can be extended to first calendar day of next month.", "verbatimQuoteFromManual": "effective date on the 29th, 30th and 31st", "pageNumber": "23"}
+{"question": "Waiver for extended coverage?", "answer": "Premium for 1-3 days may be waived.", "verbatimQuoteFromManual": "coverage of 1 to 3 days may be waived", "pageNumber": "23"}
+{"question": "Short-term policy rule?", "answer": "Written on pro rata basis per table.", "verbatimQuoteFromManual": "written on a pro rata basis", "pageNumber": "23"}
+{"question": "how are premium adjustments computed?", "answer": "All computed pro rata.", "verbatimQuoteFromManual": "computed pro rata", "pageNumber": "24"}
+{"question": "what happens if reinstated within 30 days?", "answer": "Same premium as cancellation.", "verbatimQuoteFromManual": "same as at time", "pageNumber": "24"}
+{"question": "is refund under $2 waived?", "answer": "Yes, refund under $2 waived.", "verbatimQuoteFromManual": "refund of less than $2", "pageNumber": "24"}
+{"question": "how compute return premium for cancellation?", "answer": "Compute pro rata return premium.", "verbatimQuoteFromManual": "compute return premium pro rata", "pageNumber": "24"}
+{"question": "how calculate earned premium for 6-month policy?", "answer": "Multiply 0.214 by 2.", "verbatimQuoteFromManual": "Multiply .214 by 2", "pageNumber": "24"}
+{"question": "What is pro rata ratio for May 1?", "answer": "0.332", "verbatimQuoteFromManual": "Day of Month 1 Ratio 0.332", "pageNumber": "25"}
+{"question": "June 10 cancellation ratio?", "answer": "0.441", "verbatimQuoteFromManual": "Day of Month 10 Ratio 0.441", "pageNumber": "25"}
+{"question": "April 15 cancellation proration?", "answer": "0.285", "verbatimQuoteFromManual": "Day of Month 15 Ratio 0.285", "pageNumber": "25"}
+{"question": "Rate for cancellation on January 31?", "answer": "0.085", "verbatimQuoteFromManual": "Day of Month 31 Ratio 0.085", "pageNumber": "25"}
+{"question": "How is February 4 prorated?", "answer": "0.035", "verbatimQuoteFromManual": "Day of Month 4 Ratio 0.035", "pageNumber": "25"}
+{"question": "Ratio for July 15?", "answer": ".534", "verbatimQuoteFromManual": ".534", "pageNumber": "26"}
+{"question": "December 31 pro rata ratio?", "answer": "1.000", "verbatimQuoteFromManual": "1.000", "pageNumber": "26"}
+{"question": "October 10 cancellation ratio?", "answer": ".693", "verbatimQuoteFromManual": ".693", "pageNumber": "26"}
+{"question": "Day of year for November 15?", "answer": "319", "verbatimQuoteFromManual": "319", "pageNumber": "26"}
+{"question": "Ratio for August 30?", "answer": ".619", "verbatimQuoteFromManual": ".619", "pageNumber": "26"}
+{"question": "How are premiums rounded?", "answer": "To the nearest whole dollar.", "verbatimQuoteFromManual": "nearest whole dollar", "pageNumber": "27"}
+{"question": "Factor for comprehensive Symbol 70?", "answer": "+0.74 per $10,000 above $150,000.", "verbatimQuoteFromManual": "+0.74 per $10,000 above", "pageNumber": "27"}
+{"question": "Collision factor for Symbol 26?", "answer": "+0.35 per $10,000 above $80,000.", "verbatimQuoteFromManual": "+0.35 per $10,000 above", "pageNumber": "27"}
+{"question": "Rate increase for 1975 Symbol 7?", "answer": "20% per $1,000 above $10,000.", "verbatimQuoteFromManual": "20% per $1,000 above", "pageNumber": "27"}
+{"question": "Definition of original cost?", "answer": "Manufacturer's Suggested Retail Price.", "verbatimQuoteFromManual": "Manufacturer's Suggested Retail Price", "pageNumber": "27"}
+{"question": "Minimum Bodily Injury limits?", "answer": "Must be equal to policy limits.", "verbatimQuoteFromManual": "Bodily Injury Coverage must be afforded at limits equal to the policy’s liability limits.", "pageNumber": "28"}
+{"question": "Property Damage deductible for hit-and-run?", "answer": "$300 deductible applies.", "verbatimQuoteFromManual": "Property Damage is subject to a $300 Deductible for accidents involving a hit-and-run vehicle.", "pageNumber": "28"}
+{"question": "Rejecting Underinsured Motorists coverage?", "answer": "Allowed in writing by named insured.", "verbatimQuoteFromManual": "The named insured or spouse may, in writing, reject Bodily Injury and Property Damage Underinsured Motorists Coverage.", "pageNumber": "28"}
+{"question": "Rates for multi-car risks?", "answer": "Applied per car, including the first.", "verbatimQuoteFromManual": "Rates for multi-car risks are on a per-car basis. Apply these rates to each car including the first car.", "pageNumber": "28"}
+{"question": "Collision deductible options?", "answer": "Shown on state rate pages.", "verbatimQuoteFromManual": "Collision Deductible options are shown on the state rate pages.", "pageNumber": "28"}
+{"question": "Optional Limits Transportation Expenses coverage?", "answer": "Can increase $20/600 limit.", "verbatimQuoteFromManual": "$20/600 limit", "pageNumber": "29"}
+{"question": "How to include Towing and Labor?", "answer": "Attach endorsement PP0303.", "verbatimQuoteFromManual": "Attach the Towing And Labor Costs", "pageNumber": "29"}
+{"question": "What counts as Excess Electronic Equipment?", "answer": "Radios, GPS, computers, and more.", "verbatimQuoteFromManual": "Reproduces, receives, or transmits", "pageNumber": "29"}
+{"question": "Limit for non-manufacturer equipment?", "answer": "Subject to $1,000 sub-limit.", "verbatimQuoteFromManual": "Subject to a sub-limit", "pageNumber": "29"}
+{"question": "Tapes, records, and other media?", "answer": "$200 added automatically.", "verbatimQuoteFromManual": "$200 worth of tapes", "pageNumber": "29"}
+{"question": "Washington private passenger auto rules?", "answer": "Rules apply to Washington auto policies.", "verbatimQuoteFromManual": "PRIVATE PASSENGER AUTO RATES", "pageNumber": "2"}
+{"question": "Edition for Washington auto rates?", "answer": "8/15/24 Edition.", "verbatimQuoteFromManual": "8/15/24 Edition", "pageNumber": "2"}
+{"question": "Who provides auto rates manual?", "answer": "Grange Insurance Association.", "verbatimQuoteFromManual": "Grange Insurance Association", "pageNumber": "2"}
+{"question": "Territorial rules for Washington?", "answer": "Territorial rules apply to Washington policies.", "verbatimQuoteFromManual": "WASHINGTON", "pageNumber": "2"}
+{"question": "What vehicle type rules apply?", "answer": "Private passenger vehicles.", "verbatimQuoteFromManual": "PRIVATE PASSENGER AUTO RATES", "pageNumber": "2"}
+{"question": "OEM coverage eligibility timeframe", "answer": "Until 11 years from model year.", "verbatimQuoteFromManual": "eleventh year of the vehicle", "pageNumber": "30"}
+{"question": "Auto loan coverage eligibility", "answer": "Only for private passenger vehicles.", "verbatimQuoteFromManual": "private passenger auto", "pageNumber": "30"}
+{"question": "Rate for auto loan coverage", "answer": "10% of Comprehensive or Collision premium.", "verbatimQuoteFromManual": "Charge 10% of the Comprehensive", "pageNumber": "30"}
+{"question": "Customized van base rate calculation", "answer": "Based on original cost and symbol.", "verbatimQuoteFromManual": "Determine the Original Cost", "pageNumber": "30"}
+{"question": "Endorsement for excess electronic equipment", "answer": "PP1375 is required.", "verbatimQuoteFromManual": "PP1375 endorsement to the policy", "pageNumber": "30"}
+{"question": "What does Trip Interruption cover?", "answer": "Covers transport, lodging, and meals.", "verbatimQuoteFromManual": "Transportation expenses incurred", "pageNumber": "31"}
+{"question": "Eligibility for Auto Lease Coverage?", "answer": "Only for private passenger autos, pickups, or vans.", "verbatimQuoteFromManual": "private passenger auto, pickup or van", "pageNumber": "31"}
+{"question": "PIP coverage exclusions?", "answer": "Excludes motorcycles, mopeds, and farm tractors.", "verbatimQuoteFromManual": "not eligible for PIP coverage", "pageNumber": "31"}
+{"question": "Rate for Auto Lease Coverage?", "answer": "7% of both Collision and Comprehensive premiums.", "verbatimQuoteFromManual": "Charge 7% of both", "pageNumber": "31"}
+{"question": "Endorsement for Trip Interruption?", "answer": "PP1302 endorsement required.", "verbatimQuoteFromManual": "Attach the Trip Interruption Coverage", "pageNumber": "31"}
+{"question": "What is basic PIP coverage?", "answer": "$10,000 medical, $2,000 funeral, $10,000 income continuation, $5,000 loss of services.", "verbatimQuoteFromManual": "Basic Limits Personal Injury Protection", "pageNumber": "32"}
+{"question": "Increased PIP limits benefits?", "answer": "$35,000 medical, $2,000 funeral, $35,000 income continuation, $14,600 loss of services.", "verbatimQuoteFromManual": "Increased Limits Personal Injury Protection", "pageNumber": "32"}
+{"question": "What is form REG 335?", "answer": "Loss Payable Endorsement if physical damage coverage and loss payee.", "verbatimQuoteFromManual": "Loss Payable Endorsement", "pageNumber": "32"}
+{"question": "Rejecting basic PIP coverage?", "answer": "Requires written rejection; binding at all coverage levels.", "verbatimQuoteFromManual": "Reject basic limits PIP Coverage", "pageNumber": "32"}
+{"question": "What attaches to Washington PIP?", "answer": "Personal Injury Protection - PP0569.", "verbatimQuoteFromManual": "Attach Personal Injury Protection", "pageNumber": "32"}
+{"question": "What is Extended Non-Owned Coverage?", "answer": "Coverage for borrowed or rented autos.", "verbatimQuoteFromManual": "borrowed or rented autos", "pageNumber": "33"}
+{"question": "What is PP0306 used for?", "answer": "Coverage for vehicles for regular use.", "verbatimQuoteFromManual": "Vehicles Furnished Or Available For Regular Use", "pageNumber": "33"}
+{"question": "Percentage charge for named individual?", "answer": "12% for primary liability; 90% if no primary.", "verbatimQuoteFromManual": "Percentage Charge Named Individual", "pageNumber": "33"}
+{"question": "Medical Payments Coverage extension?", "answer": "Can extend if liability is extended under Extended Non-Owned Coverage.", "verbatimQuoteFromManual": "Medical Payments Coverage may also be similarly extended", "pageNumber": "33"}
+{"question": "Where are increased limit factors listed?", "answer": "Displayed on rate pages in the Product Guide.", "verbatimQuoteFromManual": "Displayed on the rate pages", "pageNumber": "33"}
+{"question": "What is a motor home?", "answer": "Self-propelled vehicle with living area.", "verbatimQuoteFromManual": "self-propelled motor vehicle", "pageNumber": "34"}
+{"question": "Symbol for motor home over $65,000?", "answer": "Use Symbol 21 (A).", "verbatimQuoteFromManual": "Symbol 21 (A)", "pageNumber": "34"}
+{"question": "Collision rate for motor home over $65,000?", "answer": "1.4% per $1,000 over $65,000.", "verbatimQuoteFromManual": "1.4% for each $1,000", "pageNumber": "34"}
+{"question": "Base rate for pleasure use motor homes?", "answer": "Charge 35% of standard base rates.", "verbatimQuoteFromManual": "Charge 35% of", "pageNumber": "34"}
+{"question": "How is the chassis model year determined?", "answer": "Based on the year of the chassis.", "verbatimQuoteFromManual": "model year of the chassis", "pageNumber": "34"}
+{"question": "Coverage for business trailers?", "answer": "Not covered for business use.", "verbatimQuoteFromManual": "Used for business purposes", "pageNumber": "35"}
+{"question": "Farm wagons liability coverage?", "answer": "Covered without extra premium charge.", "verbatimQuoteFromManual": "without additional premium charge", "pageNumber": "35"}
+{"question": "Physical damage to camper bodies?", "answer": "Must be insured separately, agreed value not provided.", "verbatimQuoteFromManual": "Coverage is not provided", "pageNumber": "35"}
+{"question": "Define recreational trailer?", "answer": "Non-self-propelled with living quarters.", "verbatimQuoteFromManual": "non-self-propelled recreational unit", "pageNumber": "35"}
+{"question": "Collision coverage for trailers?", "answer": "$0.38 for $200 deductible.", "verbatimQuoteFromManual": "$200 Deductible Collision", "pageNumber": "35"}
+{"question": "Passenger Hazard Exclusion eligibility?", "answer": "Eligible only for increased limits.", "verbatimQuoteFromManual": "Passenger Hazard Exclusion", "pageNumber": "36"}
+{"question": "Snowmobile base rate percentage?", "answer": "Charge 200% of private passenger base rate.", "verbatimQuoteFromManual": "Charge 200% of Private Passenger base rate", "pageNumber": "36"}
+{"question": "Deductible for comprehensive on snowmobiles?", "answer": "$100 deductible, $0.97 per $100.", "verbatimQuoteFromManual": "Comprehensive $100 $0.97", "pageNumber": "36"}
+{"question": "Split-limit liability discount factor?", "answer": "50/100 limits receive 7% discount.", "verbatimQuoteFromManual": "50/100 7%", "pageNumber": "36"}
+{"question": "Medical Payments coverage limit for snowmobiles?", "answer": "$1,000 limit only.", "verbatimQuoteFromManual": "Medical Payments – $1,000 Limit Only", "pageNumber": "36"}
+{"question": "Dune buggy liability rate?", "answer": "90% of private passenger base rate.", "verbatimQuoteFromManual": "Charge 90% of private passenger base rate.", "pageNumber": "37"}
+{"question": "Golf cart liability rate?", "answer": "15% of private passenger base rate.", "verbatimQuoteFromManual": "Charge 15% of private passenger base rate.", "pageNumber": "37"}
+{"question": "Deductible for dune buggy collision?", "answer": "$200 deductible.", "verbatimQuoteFromManual": "Collision Deductible $200.", "pageNumber": "37"}
+{"question": "Collision GIA rate for golf carts?", "answer": "$0.40 per $100.", "verbatimQuoteFromManual": "Collision GIA Rate Per $100 $0.40.", "pageNumber": "37"}
+{"question": "Comprehensive rate for dune buggies?", "answer": "$1.02 per $100 with $100 deductible.", "verbatimQuoteFromManual": "Comprehensive GIA Rate Per $100 $1.02.", "pageNumber": "37"}
+{"question": "Antique auto liability rate?", "answer": "40% of private passenger base rate.", "verbatimQuoteFromManual": "40% of the private", "pageNumber": "38"}
+{"question": "Physical damage deductible options?", "answer": "Comprehensive $100, Collision $200.", "verbatimQuoteFromManual": "$100 Comprehensive, $200 Collision", "pageNumber": "38"}
+{"question": "Classic auto classification?", "answer": "Classify and rate as private passenger auto.", "verbatimQuoteFromManual": "Classify and rate as", "pageNumber": "38"}
+{"question": "No-Fault coverage for antique autos?", "answer": "Afforded only where required.", "verbatimQuoteFromManual": "afforded only where required", "pageNumber": "38"}
+{"question": "Classic auto coverage basis?", "answer": "Not provided on agreed value basis.", "verbatimQuoteFromManual": "not provided on agreed", "pageNumber": "38"}
+{"question": "What defines a rating territory?", "answer": "Geographical area based on USPS ZIP codes.", "verbatimQuoteFromManual": "geographical area defined", "pageNumber": "39"}
+{"question": "When ZIP codes differ, which applies?", "answer": "ZIP code of principal garaging location.", "verbatimQuoteFromManual": "location of principal garaging", "pageNumber": "39"}
+{"question": "Can rates change only for ZIP code change?", "answer": "No, rates cannot change solely for ZIP code change.", "verbatimQuoteFromManual": "rates shall not be changed", "pageNumber": "39"}
+{"question": "Who can change territory boundaries?", "answer": "Only the insurer’s rate filings.", "verbatimQuoteFromManual": "changed only by the insurer", "pageNumber": "39"}
+{"question": "What determines physical territory boundaries?", "answer": "Rate filing ZIP code boundaries in effect.", "verbatimQuoteFromManual": "determined by the ZIP code boundaries", "pageNumber": "39"}
+{"question": "How does base rate vary by territory?", "answer": "Base rates depend on territory.", "verbatimQuoteFromManual": "base rates vary by territory", "pageNumber": "3"}
+{"question": "Definition of DARP?", "answer": "Driving Activity Rating Plan.", "verbatimQuoteFromManual": "definition of DARP", "pageNumber": "3"}
+{"question": "What are safety equipment discounts?", "answer": "Discount for vehicles with safety equipment.", "verbatimQuoteFromManual": "safety equipment discounts", "pageNumber": "3"}
+{"question": "What does multi-policy discount mean?", "answer": "Discount for holding multiple policies.", "verbatimQuoteFromManual": "multi policy discount", "pageNumber": "3"}
+{"question": "Minimum premium rule purpose?", "answer": "Ensures minimum premium is charged.", "verbatimQuoteFromManual": "minimum premium rule", "pageNumber": "3"}
+{"question": "Territory for ZIP 98056?", "answer": "Territory 52", "verbatimQuoteFromManual": "98056 Snoqualmie, Territory 52", "pageNumber": "40"}
+{"question": "ZIP codes in Territory 55?", "answer": "98012, 98020, 98036, 98037, 98043, 98046", "verbatimQuoteFromManual": "Territory 55, ZIP codes", "pageNumber": "40"}
+{"question": "Which ZIP is Territory 71?", "answer": "98068", "verbatimQuoteFromManual": "98068 Snoqualmie, Territory 71", "pageNumber": "40"}
+{"question": "What territory is 98105?", "answer": "Territory 58", "verbatimQuoteFromManual": "98105 Seattle, Territory 58", "pageNumber": "40"}
+{"question": "ZIP codes in Territory 51?", "answer": "98001, 98057, 98058, 98064, 98093, 98121", "verbatimQuoteFromManual": "Territory 51, ZIP codes", "pageNumber": "40"}
+{"question": "Which territory is ZIP 98133?", "answer": "Territory 58.", "verbatimQuoteFromManual": "ZIP 98133 Territory 58", "pageNumber": "41"}
+{"question": "What territory is Bellingham in?", "answer": "Territory 56.", "verbatimQuoteFromManual": "Bellingham Territory 56", "pageNumber": "41"}
+{"question": "ZIP 98201 belongs to which territory?", "answer": "Territory 55.", "verbatimQuoteFromManual": "ZIP 98201 Territory 55", "pageNumber": "41"}
+{"question": "What territory is Oak Harbor?", "answer": "Territory 62.", "verbatimQuoteFromManual": "Oak Harbor Territory 62", "pageNumber": "41"}
+{"question": "ZIP 98237 corresponds to which territory?", "answer": "Territory 56.", "verbatimQuoteFromManual": "ZIP 98237 Territory 56", "pageNumber": "41"}
+{"question": "Territory for Anderson Island?", "answer": "67", "verbatimQuoteFromManual": "Anderson Island 67", "pageNumber": "42"}
+{"question": "ZIP code 98370 territory?", "answer": "60", "verbatimQuoteFromManual": "98370 Poulsbo 60", "pageNumber": "42"}
+{"question": "What territory is Ashford in?", "answer": "53", "verbatimQuoteFromManual": "Ashford 53", "pageNumber": "42"}
+{"question": "Gig Harbor ZIP 98332 territory?", "answer": "57", "verbatimQuoteFromManual": "98332 Gig Harbor 57", "pageNumber": "42"}
+{"question": "New ZIP 98289 territory?", "answer": "53", "verbatimQuoteFromManual": "98289 Snohomish 53", "pageNumber": "42"}
+{"question": "ZIP code 98403 territory?", "answer": "64", "verbatimQuoteFromManual": "ZIP Code 98403", "pageNumber": "43"}
+{"question": "What territory is Olympia 98501?", "answer": "73", "verbatimQuoteFromManual": "98501 Olympia Territory 73", "pageNumber": "43"}
+{"question": "ZIP code for McKenna?", "answer": "98558", "verbatimQuoteFromManual": "98558 McKenna", "pageNumber": "43"}
+{"question": "Territory for ZIP 98547?", "answer": "60", "verbatimQuoteFromManual": "98547 Grayland Territory 60", "pageNumber": "43"}
+{"question": "Territory for Lakewood ZIP 98499?", "answer": "67", "verbatimQuoteFromManual": "98499 Lakewood Territory 67", "pageNumber": "43"}
+{"question": "What is the territory for ZIP 98595?", "answer": "60", "verbatimQuoteFromManual": "ZIP 98595 Westport 60", "pageNumber": "44"}
+{"question": "Is ZIP 98665 considered Vancouver?", "answer": "Yes, territory 68", "verbatimQuoteFromManual": "ZIP 98665 Vancouver 68", "pageNumber": "44"}
+{"question": "Which territory is assigned to Underwood?", "answer": "63", "verbatimQuoteFromManual": "ZIP 98651 Underwood 63", "pageNumber": "44"}
+{"question": "Where is ZIP 98671, Washougal?", "answer": "Territory 63", "verbatimQuoteFromManual": "ZIP 98671 Washougal 63", "pageNumber": "44"}
+{"question": "Territory for ZIP 98614 Chinook?", "answer": "60", "verbatimQuoteFromManual": "ZIP 98614 Chinook 60", "pageNumber": "44"}
+{"question": "Territory for ZIP 98815?", "answer": "200", "verbatimQuoteFromManual": "98815 | Cashmere | 200", "pageNumber": "45"}
+{"question": "What territory is Yakima in?", "answer": "71", "verbatimQuoteFromManual": "98901 | Yakima | 71", "pageNumber": "45"}
+{"question": "ZIP 98862 territory?", "answer": "70", "verbatimQuoteFromManual": "98862 | Winthrop | 70", "pageNumber": "45"}
+{"question": "Ellensburg territory assignment?", "answer": "200", "verbatimQuoteFromManual": "98926 | Ellensburg | 200", "pageNumber": "45"}
+{"question": "Which territory covers Quincy?", "answer": "200", "verbatimQuoteFromManual": "98848 | Quincy | 200", "pageNumber": "45"}
+{"question": "What territory is ZIP 99030?", "answer": "Territory 72.", "verbatimQuoteFromManual": "99030 Rockford 72", "pageNumber": "46"}
+{"question": "ZIP 99169 belongs to what territory?", "answer": "Territory 202.", "verbatimQuoteFromManual": "99169 Ritzville 202", "pageNumber": "46"}
+{"question": "Territory for Spokane ZIP codes?", "answer": "Territory 72.", "verbatimQuoteFromManual": "99201 Spokane 72", "pageNumber": "46"}
+{"question": "ZIP 99134 classification?", "answer": "Territory 202.", "verbatimQuoteFromManual": "99134 Harrington 202", "pageNumber": "46"}
+{"question": "What territory is ZIP 99141?", "answer": "Territory 70.", "verbatimQuoteFromManual": "99141 Kettle Falls 70", "pageNumber": "46"}
+{"question": "Territory for Spokane zip codes?", "answer": "Territory 72", "verbatimQuoteFromManual": "Spokane 72", "pageNumber": "47"}
+{"question": "What territory is Pasco 99301?", "answer": "Territory 71", "verbatimQuoteFromManual": "Pasco 71", "pageNumber": "47"}
+{"question": "Roosevelt zip code territory?", "answer": "Territory 66", "verbatimQuoteFromManual": "Roosevelt 66", "pageNumber": "47"}
+{"question": "What is Walla Walla territory?", "answer": "Territory 201", "verbatimQuoteFromManual": "Walla Walla 201", "pageNumber": "47"}
+{"question": "Which territory includes Othello?", "answer": "Territory 202", "verbatimQuoteFromManual": "Othello 202", "pageNumber": "47"}
+{"question": "Accident surcharge points?", "answer": "Accidents are chargeable under DARP.", "verbatimQuoteFromManual": "Accident are chargeable", "pageNumber": "48"}
+{"question": "Classification for fatal accident?", "answer": "Fatal accidents are classified as Accident.", "verbatimQuoteFromManual": "Fatal Accident Involvement", "pageNumber": "48"}
+{"question": "Administrative violations chargeable?", "answer": "Administrative violations are not chargeable.", "verbatimQuoteFromManual": "Administrative are not chargeable", "pageNumber": "48"}
+{"question": "Alcohol clinic violations?", "answer": "Alcohol clinic violations are Administrative.", "verbatimQuoteFromManual": "Alcohol Clinic, Course, Program", "pageNumber": "48"}
+{"question": "Property damage accident class?", "answer": "Property damage accidents classified as Accident.", "verbatimQuoteFromManual": "Property Damage Accident", "pageNumber": "48"}
+{"question": "What is violation code 12120?", "answer": "Expired license.", "verbatimQuoteFromManual": "EXPIRED LICENSE", "pageNumber": "49"}
+{"question": "What does violation 16540 mean?", "answer": "Failed field examination.", "verbatimQuoteFromManual": "FAILED FIELD EXAMINATION", "pageNumber": "49"}
+{"question": "What does code 19350 represent?", "answer": "Fee due.", "verbatimQuoteFromManual": "FEE DUE", "pageNumber": "49"}
+{"question": "What is violation 18340?", "answer": "No action.", "verbatimQuoteFromManual": "NO ACTION", "pageNumber": "49"}
+{"question": "Explain 21130 violation.", "answer": "Owner shall return registration if insurance canceled.", "verbatimQuoteFromManual": "OWNER SHALL RET REG IF INS CANC", "pageNumber": "49"}
+{"question": "What is Auto Loan Coverage?", "answer": "Coverage for outstanding auto loan balance.", "verbatimQuoteFromManual": "Auto Loan Coverage", "pageNumber": "4"}
+{"question": "What are increased limits?", "answer": "Higher coverage limits than base amounts.", "verbatimQuoteFromManual": "INCREASED LIMITS", "pageNumber": "4"}
+{"question": "What is Excess Electronic Equipment?", "answer": "Coverage for non-factory-installed electronics.", "verbatimQuoteFromManual": "Excess Electronic Equipment", "pageNumber": "4"}
+{"question": "What qualifies as Classic Autos?", "answer": "Vehicles meeting specific age/classic criteria.", "verbatimQuoteFromManual": "Classic Autos", "pageNumber": "4"}
+{"question": "What are GIA Class Plans?", "answer": "Rating plans for classifying drivers.", "verbatimQuoteFromManual": "GIA CLASS PLANS", "pageNumber": "4"}
+{"question": "What is 16260 classified as?", "answer": "Major Alcohol/Drug related", "verbatimQuoteFromManual": "ALCOHOL (BAC ABOVE LEGAL LIMIT)", "pageNumber": "50"}
+{"question": "17150 violation, what's the classification?", "answer": "Administrative", "verbatimQuoteFromManual": "RESTORATION OF PRIV AFTER LIMIT OR RESTR", "pageNumber": "50"}
+{"question": "9130 no DMV response classification?", "answer": "Ignore", "verbatimQuoteFromManual": "NO DMV RESPONSE", "pageNumber": "50"}
+{"question": "Meaning of violation code 12013?", "answer": "Reinstatement", "verbatimQuoteFromManual": "REINSTATEMENT", "pageNumber": "50"}
+{"question": "What is 53410 related to?", "answer": "Alcohol/Drug related", "verbatimQuoteFromManual": "ALLOW INTOXICATED PERSON TO DRIV", "pageNumber": "50"}
+{"question": "CDL disqualifications BAC levels?", "answer": "Disqualification occurs at BAC .04+.", "verbatimQuoteFromManual": "CDL DISQUALIFICATION: BAC. 04+", "pageNumber": "51"}
+{"question": "What is violation 53220?", "answer": "Open container by passenger.", "verbatimQuoteFromManual": "OPEN CONTAINER BY PASSENGER", "pageNumber": "51"}
+{"question": "Penalty for refusal chemical test?", "answer": "Major violation.", "verbatimQuoteFromManual": "REFUSAL TO SUBMIT TO CHEMICAL TEST", "pageNumber": "51"}
+{"question": "Bridge speed of 21+ mph over?", "answer": "Major violation.", "verbatimQuoteFromManual": "BRIDGE SPEED 26 PLUS OVER LIMIT", "pageNumber": "51"}
+{"question": "Drinking while operating MV?", "answer": "Major violation.", "verbatimQuoteFromManual": "DRINKING WHILE OPERATING MV", "pageNumber": "51"}
+{"question": "What is violation 16850?", "answer": "CDL 3 Yr Disqual: Leaving Scene, HAZ MAT.", "verbatimQuoteFromManual": "CDL 3 YR DISQUAL: LEAVING SCENE, HAZ MAT", "pageNumber": "52"}
+{"question": "Classification for 56240?", "answer": "Major violation.", "verbatimQuoteFromManual": "DAMAGING/TAMPERING W/MV", "pageNumber": "52"}
+{"question": "Fail to yield to emergency vehicle?", "answer": "Major violation under 32150.", "verbatimQuoteFromManual": "FAIL TO YLD TO EMER VEH", "pageNumber": "52"}
+{"question": "What is violation 18420?", "answer": "Frequent violator, major violation.", "verbatimQuoteFromManual": "FREQUENT VIOLATOR", "pageNumber": "52"}
+{"question": "Violation for habitually offending?", "answer": "12030; Major violation.", "verbatimQuoteFromManual": "HABITUAL OFFENDER", "pageNumber": "52"}
+{"question": "License cancellation penalty?", "answer": "Major violation.", "verbatimQuoteFromManual": "LICENSE NOT ENTITLED/GAVE WRNG INFO,LIC CANC", "pageNumber": "53"}
+{"question": "Speeding threshold for major violation?", "answer": "21 mph and over.", "verbatimQuoteFromManual": "SPEED 21 PLUS OVER LIMIT", "pageNumber": "53"}
+{"question": "What is SR-22 withdrawal?", "answer": "Major violation.", "verbatimQuoteFromManual": "SR-22/FIN/JUDG/INS WITHDRAWAL", "pageNumber": "53"}
+{"question": "Negligent driving classification?", "answer": "Major violation.", "verbatimQuoteFromManual": "NEGLIGENT DRIVING", "pageNumber": "53"}
+{"question": "Theft of motor vehicle penalty?", "answer": "Major violation.", "verbatimQuoteFromManual": "THEFT OF MV", "pageNumber": "53"}
+{"question": "What is 16140 withdrawal?", "answer": "Failure to comply probation.", "verbatimQuoteFromManual": "WITHDRAWAL-FAIL TO COMPLY PROG/PROBATION", "pageNumber": "54"}
+{"question": "Classification for reckless operation?", "answer": "Major.", "verbatimQuoteFromManual": "Careless or reckless driving", "pageNumber": "54"}
+{"question": "Code for leaving scene of accident?", "answer": "16750.", "verbatimQuoteFromManual": "CDL DISQUALIFICATION: LEAVING SCENE OF ACCID", "pageNumber": "54"}
+{"question": "Violation for CDL disqualified twice?", "answer": "16930.", "verbatimQuoteFromManual": "CDL DISQUAL: 2 SERIOUS CONVICTIONS IN 3 YRS", "pageNumber": "54"}
+{"question": "What is 16510 denial general?", "answer": "Suspension or revocation of license.", "verbatimQuoteFromManual": "DENIAL, GENERAL", "pageNumber": "54"}
+{"question": "What is code 16460?", "answer": "Suspension or revocation of license.", "verbatimQuoteFromManual": "Suspension or revocation of license", "pageNumber": "55"}
+{"question": "Minor violation for driving on sidewalk?", "answer": "Code 82520.", "verbatimQuoteFromManual": "DRIV VEH ON SDWK", "pageNumber": "55"}
+{"question": "Fail to dim headlights follow vehicle?", "answer": "Code 61340 is applicable.", "verbatimQuoteFromManual": "FAIL TO DIM HEADLIGHTS FOLLOW VEH", "pageNumber": "55"}
+{"question": "Major violation for false info?", "answer": "Yes, code 16460.", "verbatimQuoteFromManual": "WITHDRAWL, FALSE INFO", "pageNumber": "55"}
+{"question": "Follow fire truck too closely?", "answer": "Minor violation, code 36140.", "verbatimQuoteFromManual": "FOLLOW FIRE TRUCK TOO CLOSELY", "pageNumber": "55"}
+{"question": "What is violation code 36100?", "answer": "Follow too closely, generally.", "verbatimQuoteFromManual": "FOLLOW TOO CLOSELY, GENERALLY", "pageNumber": "56"}
+{"question": "How is 68730 classified?", "answer": "Minor violation.", "verbatimQuoteFromManual": "Minor", "pageNumber": "56"}
+{"question": "What does 42110 mean?", "answer": "Motorcycle prohibit from passing in same lane.", "verbatimQuoteFromManual": "MCYC PROH FROM PASSING VEH IN SAME LANE", "pageNumber": "56"}
+{"question": "Classification for impairing road/block traffic?", "answer": "Minor violation.", "verbatimQuoteFromManual": "Minor", "pageNumber": "56"}
+{"question": "What is 14110 about?", "answer": "Loss of consent for minor's license.", "verbatimQuoteFromManual": "LOSS OF CONSENT FOR MINOR'S LICENSE", "pageNumber": "56"}
+{"question": "What is violation 37210?", "answer": "Passing on RT Proh; Unsafe Passing.", "verbatimQuoteFromManual": "PASSING ON RT PROH; UNSAFE PASSING", "pageNumber": "57"}
+{"question": "Violation code for unsafe lane change?", "answer": "33330.", "verbatimQuoteFromManual": "UNSAFE LANE CHNG", "pageNumber": "57"}
+{"question": "Texting under violation codes?", "answer": "68740.", "verbatimQuoteFromManual": "TEXTING VIOLATIONS", "pageNumber": "57"}
+{"question": "What does code 1130 mean?", "answer": "State Code/Description Not Valid.", "verbatimQuoteFromManual": "STATE CODE/DESCRIPTION NOT VALID", "pageNumber": "57"}
+{"question": "Classification for violation 34140?", "answer": "Minor.", "verbatimQuoteFromManual": "Minor", "pageNumber": "57"}
+{"question": "wrong way one-way street?", "answer": "Minor violation.", "verbatimQuoteFromManual": "Wrong way on one-way street", "pageNumber": "58"}
+{"question": "failure to stop at red signal?", "answer": "Failure to stop, minor.", "verbatimQuoteFromManual": "Fail to obey flashing red signal", "pageNumber": "58"}
+{"question": "speeding 10-29 mph over?", "answer": "Minor violation.", "verbatimQuoteFromManual": "Speed 10-29 over limit", "pageNumber": "58"}
+{"question": "turning in violation of control device?", "answer": "Minor violation.", "verbatimQuoteFromManual": "Turning in viol of ctrl dev", "pageNumber": "58"}
+{"question": "fail to yield exiting driveway?", "answer": "Failure to yield, minor.", "verbatimQuoteFromManual": "Veh entering from pvt rd/driveway to yld", "pageNumber": "58"}
+{"question": "Speeding 21-25 over limit?", "answer": "Major violation.", "verbatimQuoteFromManual": "Speeding 21 mph and over", "pageNumber": "59"}
+{"question": "Classification for speeding 20 and under?", "answer": "Minor violation.", "verbatimQuoteFromManual": "Speeding 20 mph and under", "pageNumber": "59"}
+{"question": "Speed in excess of 100 mph?", "answer": "Major violation.", "verbatimQuoteFromManual": "Speeding 21 mph and over", "pageNumber": "59"}
+{"question": "Special speed limitations on bridges?", "answer": "Minor violation.", "verbatimQuoteFromManual": "Speeding 20 mph and under", "pageNumber": "59"}
+{"question": "Speed limit 36-40 over?", "answer": "Major violation.", "verbatimQuoteFromManual": "Speeding 21 mph and over", "pageNumber": "59"}
+{"question": "What is DARP?", "answer": "Driving Activity Rating Plan.", "verbatimQuoteFromManual": "Driving Activity Rating Plan (DARP)", "pageNumber": "5"}
+{"question": "UIM-BI increased limit factors?", "answer": "Underinsured motorist bodily injury coverage limits.", "verbatimQuoteFromManual": "UIM-BI increased limit factors", "pageNumber": "5"}
+{"question": "Optional limits for transportation expenses?", "answer": "Optional limits transportation expenses coverage available.", "verbatimQuoteFromManual": "Optional limits transportation expenses coverage", "pageNumber": "5"}
+{"question": "Coverage for tapes and disks?", "answer": "Tapes, records, disks are covered.", "verbatimQuoteFromManual": "Tapes, records, disks and other media coverage", "pageNumber": "5"}
+{"question": "What is OEM coverage?", "answer": "Original Equipment Manufacturer coverage.", "verbatimQuoteFromManual": "Original Equipment Manufacturer (OEM) coverage", "pageNumber": "5"}
+{"question": "What is violation 311DF?", "answer": "Speeding 20 mph and under.", "verbatimQuoteFromManual": "311DF SPEED 10-19 OVER LIMIT", "pageNumber": "60"}
+{"question": "Classification of violation 67120?", "answer": "Non-moving.", "verbatimQuoteFromManual": "67120 ABANDON VEHICLE", "pageNumber": "60"}
+{"question": "Definition of 311AF?", "answer": "Speeding 20 mph and under.", "verbatimQuoteFromManual": "311AF SPEED 1-19 OVER LIMIT", "pageNumber": "60"}
+{"question": "Violation 3110B classification?", "answer": "Minor.", "verbatimQuoteFromManual": "3110B SPEED 5-9 OVER LIMIT", "pageNumber": "60"}
+{"question": "What is 61410 related to?", "answer": "Additional lighting equipment.", "verbatimQuoteFromManual": "61410 ADDITIONAL LIGHTING EQUIP", "pageNumber": "60"}
+{"question": "What does code 11510 mean?", "answer": "Failing to submit vehicle for inspection.", "verbatimQuoteFromManual": "ALL VEH TO SUBMIT TO VEH INSP", "pageNumber": "61"}
+{"question": "What is violation 11710?", "answer": "Altered, forged, or counterfeit vehicle documents.", "verbatimQuoteFromManual": "ALTER, FORGE, COUNTERFEIT TITLE, REG, PLATES", "pageNumber": "61"}
+{"question": "Is code 61150 about farm equipment?", "answer": "Yes, it relates to lamps/emblems on farm equipment.", "verbatimQuoteFromManual": "DEF LAMPS/EMBLEMS ON FARM EQUIP", "pageNumber": "61"}
+{"question": "What does 68210 refer to?", "answer": "Excessive noise of an unspecified cause.", "verbatimQuoteFromManual": "EXCESSIVE NOISE UNSPECIFIED CAUSE", "pageNumber": "61"}
+{"question": "What is code 84130 about?", "answer": "Failure to use a restraint system.", "verbatimQuoteFromManual": "FAIL TO USE RESTRAINT SYSTEM", "pageNumber": "61"}
+{"question": "What is 41100?", "answer": "Motorcycle operator wear eye helmet.", "verbatimQuoteFromManual": "MCYC OPER TO WEAR HELMET", "pageNumber": "62"}
+{"question": "Non-moving violation for littering?", "answer": "Yes, code 67140 applies.", "verbatimQuoteFromManual": "LITTERING", "pageNumber": "62"}
+{"question": "Definition of 66210?", "answer": "Load extending beyond vehicle.", "verbatimQuoteFromManual": "LOAD EXTENDING BEYOND VEH", "pageNumber": "62"}
+{"question": "Standard code for parking on bridge?", "answer": "71120 for parked on bridge.", "verbatimQuoteFromManual": "PARKED ON BRIDGE, TUNNEL, ETC", "pageNumber": "62"}
+{"question": "What is 62120 about brakes?", "answer": "It covers maintenance of brakes.", "verbatimQuoteFromManual": "MAINTENANCE OF BRAKES", "pageNumber": "62"}
+{"question": "What is code 71140?", "answer": "PKG ON SDWK.", "verbatimQuoteFromManual": "PKG ON SDWK", "pageNumber": "63"}
+{"question": "Is code 71250 moving or non-moving?", "answer": "Non-moving.", "verbatimQuoteFromManual": "Non-moving violations", "pageNumber": "63"}
+{"question": "Definition of code 66250?", "answer": "PROJ LOAD ON PASS VEH.", "verbatimQuoteFromManual": "PROJ LOAD ON PASS VEH", "pageNumber": "63"}
+{"question": "Grange classification for 63410?", "answer": "Non-moving.", "verbatimQuoteFromManual": "Non-moving violations", "pageNumber": "63"}
+{"question": "Violation description for code 85130?", "answer": "UNLAWFUL SNOWMOBILE OPERATION.", "verbatimQuoteFromManual": "UNLAWFUL SNOWMOBILE OPERATION", "pageNumber": "63"}
+{"question": "What is code 66130?", "answer": "Width not to exceed 8 feet.", "verbatimQuoteFromManual": "WIDTH NOT TO EXCEED 8 FEET", "pageNumber": "64"}
+{"question": "What does code 11730 mean?", "answer": "Use of false name to obtain title.", "verbatimQuoteFromManual": "USE OF FALSE NAME/STATMT TO OBTAIN TITLE, REG", "pageNumber": "64"}
+{"question": "Is radar jamming device non-moving?", "answer": "Yes, classified as non-moving.", "verbatimQuoteFromManual": "USE OF RADAR JAMMING DEVICE", "pageNumber": "64"}
+{"question": "What is violation 11320?", "answer": "Vehicle not operable while reg suspended.", "verbatimQuoteFromManual": "VEH NOT TO BE OPER WHILE REG IS SUSP/REV", "pageNumber": "64"}
+{"question": "Code for warning lights on truck?", "answer": "Violation code is 61250.", "verbatimQuoteFromManual": "WARNING LIGHTS TO BE DISPL WHEN TRUCK STOPPED", "pageNumber": "64"}
+{"question": "Factor for pleasure use age 50-64?", "answer": "0.96", "verbatimQuoteFromManual": "Factor Code 8851", "pageNumber": "65"}
+{"question": "Business use factor age 80-84?", "answer": "1.71", "verbatimQuoteFromManual": "Factor Code 8148", "pageNumber": "65"}
+{"question": "Excess Autos 2 factor?", "answer": "0.85", "verbatimQuoteFromManual": "Factor Code 8980", "pageNumber": "65"}
+{"question": "Farm use factor age 65-74?", "answer": "0.93", "verbatimQuoteFromManual": "Factor Code 8809", "pageNumber": "65"}
+{"question": "Drive less 15 miles age 85+?", "answer": "1.44", "verbatimQuoteFromManual": "Factor Code 8202", "pageNumber": "65"}
+{"question": "Factor for 18-year-old pleasure use?", "answer": "2.70 without driver training.", "verbatimQuoteFromManual": "Factor Code 8401", "pageNumber": "66"}
+{"question": "Driver training impact for 21-year-old?", "answer": "1.64 vs 1.47 without training.", "verbatimQuoteFromManual": "Factor Code 8754", "pageNumber": "66"}
+{"question": "Good student discount for 17-year-old?", "answer": "2.58 for pleasure use.", "verbatimQuoteFromManual": "Factor Code 8406", "pageNumber": "66"}
+{"question": "Rates for 19-year-old with good student credit?", "answer": "2.30 for pleasure use.", "verbatimQuoteFromManual": "Factor Code 8452", "pageNumber": "66"}
+{"question": "Age range for special classification?", "answer": "25-29 classified as all others.", "verbatimQuoteFromManual": "Operators age 25-29", "pageNumber": "66"}
+{"question": "factor for 19-year-old married male?", "answer": "Without driver training: 2.15, With: 1.89", "verbatimQuoteFromManual": "Factor Code 8944 and 8984", "pageNumber": "67"}
+{"question": "good student discount for 20-year-old?", "answer": "Pleasure Use factor is 1.83.", "verbatimQuoteFromManual": "1.83 Pleasure Use", "pageNumber": "67"}
+{"question": "factor for 17-year-old w driver training?", "answer": "Pleasure use: 2.12, Discount: 1.80.", "verbatimQuoteFromManual": "Factor Code 8964 and 8986", "pageNumber": "67"}
+{"question": "married male 21 factor?", "answer": "1.13 pleasure use, 1.30 work.", "verbatimQuoteFromManual": "Factor Code 8554", "pageNumber": "67"}
+{"question": "classification for 25-year-old driver?", "answer": "Classify as all other operators.", "verbatimQuoteFromManual": "CLASSIFY AS ALL OTHER", "pageNumber": "67"}
+{"question": "Factor codes for 17-year-old female?", "answer": "8024 for not owner, 8124 for owner.", "verbatimQuoteFromManual": "Factor Code 8024, 8124", "pageNumber": "68"}
+{"question": "Impact of driver training on 19-year-old?", "answer": "Reduces factor from 2.37 to 2.09.", "verbatimQuoteFromManual": "With driver training 2.09", "pageNumber": "68"}
+{"question": "Good student factor for pleasure use?", "answer": "1.77 for 19 years old with training.", "verbatimQuoteFromManual": "1.77 for pleasure use", "pageNumber": "68"}
+{"question": "Premium factor for age 21-24?", "answer": "1.13 for not owner; 1.56 for owner.", "verbatimQuoteFromManual": "1.13, 1.56", "pageNumber": "68"}
+{"question": "Definition of good student classification?", "answer": "Lower factor for eligible students.", "verbatimQuoteFromManual": "Good student classification", "pageNumber": "68"}
+{"question": "What is the factor for age 18 Pleasure Use no Good Student Credit?", "answer": "1.30", "verbatimQuoteFromManual": "Factor 1.30", "pageNumber": "69"}
+{"question": "Factor for 17-year-old with driver training and Good Student Credit, Work Use?", "answer": "1.25", "verbatimQuoteFromManual": "Factor 1.25", "pageNumber": "69"}
+{"question": "Pleasure Use factor age 19 with driver training and Good Student Credit?", "answer": "0.97", "verbatimQuoteFromManual": "Factor 0.97", "pageNumber": "69"}
+{"question": "Drive to Work factor age 20 no Good Student Credit?", "answer": "1.50", "verbatimQuoteFromManual": "Factor 1.50", "pageNumber": "69"}
+{"question": "21-year-old factor with Good Student Credit, driver training, Pleasure Use?", "answer": "0.94", "verbatimQuoteFromManual": "Factor 0.94", "pageNumber": "69"}
+{"question": "What is private passenger auto?", "answer": "A four-wheel motor vehicle.", "verbatimQuoteFromManual": "A private passenger auto", "pageNumber": "6"}
+{"question": "Pickup as private passenger auto?", "answer": "Allowed if under 13,000 lbs.", "verbatimQuoteFromManual": "13,000 lbs. or less", "pageNumber": "6"}
+{"question": "Definition of liability?", "answer": "Bodily Injury and Property Damage.", "verbatimQuoteFromManual": "Bodily Injury and Property Damage", "pageNumber": "6"}
+{"question": "Gross Vehicle Weight Rating?", "answer": "Maximum loaded weight for vehicle.", "verbatimQuoteFromManual": "Gross Vehicle Weight Rating", "pageNumber": "6"}
+{"question": "What is bodily injury?", "answer": "Part of liability coverage.", "verbatimQuoteFromManual": "Bodily Injury", "pageNumber": "6"}
+{"question": "Factor code for 18, drive to work?", "answer": "8219 or 8270 based on classification.", "verbatimQuoteFromManual": "8219, 8270", "pageNumber": "70"}
+{"question": "Rate for 20, pleasure use, no training?", "answer": "2.37 or 2.01 based on classification.", "verbatimQuoteFromManual": "2.37, 2.01", "pageNumber": "70"}
+{"question": "Good student classification age span?", "answer": "17 to 20 unmarried only.", "verbatimQuoteFromManual": "Good Student Classification", "pageNumber": "70"}
+{"question": "Policyholder classification 25-29?", "answer": "Classify as all other operators.", "verbatimQuoteFromManual": "CLASSIFY AS ALL OTHER OPERATORS", "pageNumber": "70"}
+{"question": "Rate for 21 without training, pleasure use?", "answer": "1.13 or 1.02 based on classification.", "verbatimQuoteFromManual": "1.13, 1.02", "pageNumber": "70"}
+{"question": "What is the factor code for 17-year-olds without driver training for pleasure use?", "answer": "8310", "verbatimQuoteFromManual": "Factor Code 8310", "pageNumber": "71"}
+{"question": "What is the rating factor for 18-year-olds with driver training driving to work?", "answer": "1.32", "verbatimQuoteFromManual": "Factor Code 8324", "pageNumber": "71"}
+{"question": "What is the factor for multi-car risk?", "answer": "-0.20", "verbatimQuoteFromManual": "Factor -0.20", "pageNumber": "71"}
+{"question": "Which age group uses factor code 8318?", "answer": "21 thru 24", "verbatimQuoteFromManual": "Factor Code 8318", "pageNumber": "71"}
+{"question": "What is the factor for single car risk?", "answer": "0.00", "verbatimQuoteFromManual": "Factor 0.00", "pageNumber": "71"}
+{"question": "What is the tier factor for 6-6?", "answer": "1.01", "verbatimQuoteFromManual": "Range 6-6, Factor 1.01", "pageNumber": "72"}
+{"question": "How many points for policy age 8-9?", "answer": "3", "verbatimQuoteFromManual": "Policy Age 8-9, Score 3", "pageNumber": "72"}
+{"question": "Score for 2+ lienholder vehicles?", "answer": "3", "verbatimQuoteFromManual": "2+ vehicles, Score 3", "pageNumber": "72"}
+{"question": "Non-pay reinstates in last 3 years?", "answer": "7 for 1+", "verbatimQuoteFromManual": "Non Pay Reinstates, 1+ Score 7", "pageNumber": "72"}
+{"question": "Factor for tier range 8-8?", "answer": "1.06", "verbatimQuoteFromManual": "Range 8-8, Factor 1.06", "pageNumber": "72"}
+{"question": "what is 'No Prior' BI limit?", "answer": "22 points for Term 1.", "verbatimQuoteFromManual": "No Prior", "pageNumber": "73"}
+{"question": "score for vehicle age 2-6?", "answer": "10 points.", "verbatimQuoteFromManual": "2 - 6", "pageNumber": "73"}
+{"question": "points for 6+ prior carriers?", "answer": "8 points for Term 1.", "verbatimQuoteFromManual": "6 +", "pageNumber": "73"}
+{"question": "BI limit points for 50k-99k?", "answer": "21 points for Term 1.", "verbatimQuoteFromManual": "50,000 - 99,999", "pageNumber": "73"}
+{"question": "vehicle age 20+ score?", "answer": "0 points.", "verbatimQuoteFromManual": "20 +", "pageNumber": "73"}
+{"question": "Score for 85-year-old driver?", "answer": "14", "verbatimQuoteFromManual": "85 + 14", "pageNumber": "74"}
+{"question": "Score for 3 young drivers?", "answer": "9", "verbatimQuoteFromManual": "3+ Young Drivers 9", "pageNumber": "74"}
+{"question": "Vehicles score for 1-2 cars?", "answer": "6", "verbatimQuoteFromManual": "# of Vehicles 1-2 Score 6", "pageNumber": "74"}
+{"question": "Not at fault small claim score?", "answer": "4", "verbatimQuoteFromManual": "Small (< $1K) Score 4", "pageNumber": "74"}
+{"question": "Non-accident claim, 3 small scores?", "answer": "6", "verbatimQuoteFromManual": "3+ Small (< $1K) Score 6", "pageNumber": "74"}
+{"question": "What is credit band 100 factor?", "answer": "1.199", "verbatimQuoteFromManual": "Credit Band Factor", "pageNumber": "75"}
+{"question": "From score for band 129?", "answer": "754", "verbatimQuoteFromManual": "From Score", "pageNumber": "75"}
+{"question": "Factor for credit band 150?", "answer": "0.895", "verbatimQuoteFromManual": "Credit Band Factor", "pageNumber": "75"}
+{"question": "No score factor?", "answer": "1.000", "verbatimQuoteFromManual": "No Score", "pageNumber": "75"}
+{"question": "Credit band for score 922?", "answer": "159", "verbatimQuoteFromManual": "Credit Band", "pageNumber": "75"}
+{"question": "What is the factor for 5 points?", "answer": "1.80", "verbatimQuoteFromManual": "5  1.80", "pageNumber": "76"}
+{"question": "How are DUI points calculated?", "answer": "9 for 1st occurrence, 10 for 2nd.", "verbatimQuoteFromManual": "DUI 9 10 10 11", "pageNumber": "76"}
+{"question": "Points for minor speeding (youth)?", "answer": "1 for 1st, 3 for 2nd occurrence.", "verbatimQuoteFromManual": "Minor Speed (Youth) 1 3 4 4", "pageNumber": "76"}
+{"question": "Rate factor for 20 points?", "answer": "2.70", "verbatimQuoteFromManual": "20  2.70", "pageNumber": "76"}
+{"question": "Extra surcharge points per point over 20?", "answer": "0.10 per additional point.", "verbatimQuoteFromManual": "Each Additional Point 0.10", "pageNumber": "76"}
+{"question": "BI rate for Territory 53?", "answer": "$107.62 for 25/50.", "verbatimQuoteFromManual": "Territory 53 107.62", "pageNumber": "77"}
+{"question": "UIM-BI single car base rate?", "answer": "$59.35 per vehicle.", "verbatimQuoteFromManual": "STATEWIDE SINGLE CAR $59.35", "pageNumber": "77"}
+{"question": "Limit factor for BI 100/300?", "answer": "1.59.", "verbatimQuoteFromManual": "100/300 1.59", "pageNumber": "77"}
+{"question": "Expense fee for collision?", "answer": "$6 semi-annually.", "verbatimQuoteFromManual": "COLLISION $6", "pageNumber": "77"}
+{"question": "Rate for Territory 61 BI 25/50?", "answer": "$110.59.", "verbatimQuoteFromManual": "Territory 61 110.59", "pageNumber": "77"}
+{"question": "PD base rate for Territory 56?", "answer": "149.26", "verbatimQuoteFromManual": "Territory 56", "pageNumber": "78"}
+{"question": "PD increased limit factor for 250?", "answer": "1.22", "verbatimQuoteFromManual": "PD increased limit factors", "pageNumber": "78"}
+{"question": "Statewide UIM-PD base rate for multicars?", "answer": "6.88", "verbatimQuoteFromManual": "MULTICAR", "pageNumber": "78"}
+{"question": "UIM-PD limit factor for 100?", "answer": "1.564", "verbatimQuoteFromManual": "UIM-PD increased limit factors", "pageNumber": "78"}
+{"question": "PD base rate for Territory 61?", "answer": "207.37", "verbatimQuoteFromManual": "Territory 61", "pageNumber": "78"}
+{"question": "Base rate PIP Territory 65?", "answer": "$97.41", "verbatimQuoteFromManual": "Territory Base Rate $10,000", "pageNumber": "79"}
+{"question": "PIP limit factor for $35,000?", "answer": "1.50", "verbatimQuoteFromManual": "PIP increased limit factor", "pageNumber": "79"}
+{"question": "Medical base rate Territory 58?", "answer": "$14.95", "verbatimQuoteFromManual": "Base Rate $1,000", "pageNumber": "79"}
+{"question": "Medical limit factor for $10,000?", "answer": "3.46", "verbatimQuoteFromManual": "Medical increased limit factor", "pageNumber": "79"}
+{"question": "Towing rate for 200 miles?", "answer": "$5.00", "verbatimQuoteFromManual": "Towing", "pageNumber": "79"}
+{"question": "What qualifies a motor vehicle?", "answer": "Written on specified auto basis.", "verbatimQuoteFromManual": "specified auto basis", "pageNumber": "7"}
+{"question": "What is joint ownership coverage?", "answer": "For jointly-owned private autos.", "verbatimQuoteFromManual": "owned jointly by two or more", "pageNumber": "7"}
+{"question": "Rules for owned by trust?", "answer": "Vehicle must be trust-owned.", "verbatimQuoteFromManual": "vehicles insured under the policy must be owned by the trust", "pageNumber": "7"}
+{"question": "Who can own miscellaneous vehicles?", "answer": "Individual, spouses, or relatives.", "verbatimQuoteFromManual": "owned by: An individual, Spouses", "pageNumber": "7"}
+{"question": "Coverage for corporate vehicle trusts?", "answer": "Not eligible under Personal Auto.", "verbatimQuoteFromManual": "grantor is a corporate entity", "pageNumber": "7"}
+{"question": "BI symbol 250 rating factor?", "answer": "0.50", "verbatimQuoteFromManual": "Rating Factor", "pageNumber": "80"}
+{"question": "PIP/Med Pay symbol for 385?", "answer": "585", "verbatimQuoteFromManual": "PIP/MED PAY Symbol", "pageNumber": "80"}
+{"question": "Factor for BI symbol 335?", "answer": "1.35", "verbatimQuoteFromManual": "Rating Factor", "pageNumber": "80"}
+{"question": "BI 230 corresponds to med pay?", "answer": "430", "verbatimQuoteFromManual": "PIP/MED PAY Symbol", "pageNumber": "80"}
+{"question": "What is max BI symbol?", "answer": "390", "verbatimQuoteFromManual": "BI & PD Symbol", "pageNumber": "80"}
+{"question": "Comprehensive relativities for 2027 symbol 1?", "answer": "0.33", "verbatimQuoteFromManual": "0.33", "pageNumber": "81"}
+{"question": "2021 relativities for symbol 10?", "answer": "0.81", "verbatimQuoteFromManual": "0.81", "pageNumber": "81"}
+{"question": "Symbol 20 relativities for 2018?", "answer": "1.21", "verbatimQuoteFromManual": "1.21", "pageNumber": "81"}
+{"question": "Highest relativity value in table?", "answer": "2.86", "verbatimQuoteFromManual": "2.86", "pageNumber": "81"}
+{"question": "What is symbol 28 for 2023?", "answer": "1.94", "verbatimQuoteFromManual": "1.94", "pageNumber": "81"}
+{"question": "What is the 2027 rate for symbol 67?", "answer": "8.70", "verbatimQuoteFromManual": "8.70", "pageNumber": "82"}
+{"question": "How has symbol 55 changed since 2015?", "answer": "From 2.34 to 3.86", "verbatimQuoteFromManual": "2.34 to 3.86", "pageNumber": "82"}
+{"question": "What is the trend for symbol 75?", "answer": "Increasing yearly to 15.08", "verbatimQuoteFromManual": "15.08", "pageNumber": "82"}
+{"question": "Which symbol has the highest 2027 rate?", "answer": "Symbol 75", "verbatimQuoteFromManual": "Symbol 75", "pageNumber": "82"}
+{"question": "2024 rate for symbol 61?", "answer": "5.31", "verbatimQuoteFromManual": "5.31", "pageNumber": "82"}
+{"question": "What is territory 56 rate?", "answer": "184.55", "verbatimQuoteFromManual": "184.55", "pageNumber": "83"}
+{"question": "Symbol relativity for 1990-2010, Symbol 15?", "answer": "1.15", "verbatimQuoteFromManual": "1.15", "pageNumber": "83"}
+{"question": "Deductible factor for $500?", "answer": "0.64", "verbatimQuoteFromManual": "0.64", "pageNumber": "83"}
+{"question": "Territory base rate for area 71?", "answer": "129.19", "verbatimQuoteFromManual": "129.19", "pageNumber": "83"}
+{"question": "Relativity for 1980 & prior, Symbol 11?", "answer": "0.55", "verbatimQuoteFromManual": "0.55", "pageNumber": "83"}
+{"question": "Collision relativity for symbol 14 in 2023?", "answer": "1.27", "verbatimQuoteFromManual": "1.27", "pageNumber": "84"}
+{"question": "Which symbol has relativity 0.99 in 2025?", "answer": "Symbol 8", "verbatimQuoteFromManual": "0.99", "pageNumber": "84"}
+{"question": "Symbol 1 relativity for 2021?", "answer": "0.33", "verbatimQuoteFromManual": "0.33", "pageNumber": "84"}
+{"question": "Relativity of symbol 22 in 2016?", "answer": "0.66", "verbatimQuoteFromManual": "0.66", "pageNumber": "84"}
+{"question": "Highest relativity for symbol 30?", "answer": "1.62 in 2027", "verbatimQuoteFromManual": "1.62", "pageNumber": "84"}
+{"question": "Collision relativity for symbol 43 in 2023?", "answer": "1.60", "verbatimQuoteFromManual": "collision relativity", "pageNumber": "85"}
+{"question": "Symbol with 2025 relativity of 3.57?", "answer": "64", "verbatimQuoteFromManual": "collision relativity", "pageNumber": "85"}
+{"question": "Lowest relativity for symbol 75?", "answer": "3.33 in 2011-2015", "verbatimQuoteFromManual": "collision relativity", "pageNumber": "85"}
+{"question": "2021 relativity for symbol 67?", "answer": "3.11", "verbatimQuoteFromManual": "collision relativity", "pageNumber": "85"}
+{"question": "Highest relativity in 2027?", "answer": "7.43 for symbol 75", "verbatimQuoteFromManual": "collision relativity", "pageNumber": "85"}
+{"question": "How is semi-annual collision base rate calculated?", "answer": "Base Rate x Collision Relativity x Deductible Factor.", "verbatimQuoteFromManual": "semi annual collision base rate", "pageNumber": "86"}
+{"question": "What is the 1980 & prior relativity for symbol 7?", "answer": "0.34.", "verbatimQuoteFromManual": "1980 & prior", "pageNumber": "86"}
+{"question": "What is the deductible factor for $500?", "answer": "0.88.", "verbatimQuoteFromManual": "Deductible Factor", "pageNumber": "86"}
+{"question": "Base rate for territory 55?", "answer": "438.25.", "verbatimQuoteFromManual": "Territorial Semi Annual Base Rate", "pageNumber": "86"}
+{"question": "How are 2027 relativities calculated?", "answer": "1.08 x 1.04 rounded to two decimals.", "verbatimQuoteFromManual": "2027 relativities", "pageNumber": "86"}
+{"question": "What is the base transportation expense limit?", "answer": "$20/$600", "verbatimQuoteFromManual": "$20/$600 limit", "pageNumber": "87"}
+{"question": "What is the GIA rate for $50/$1,500 coverage?", "answer": "11.30 per auto", "verbatimQuoteFromManual": "11.30", "pageNumber": "87"}
+{"question": "Do classifications apply to these rates?", "answer": "No, classifications do not apply.", "verbatimQuoteFromManual": "Classifications do not apply", "pageNumber": "87"}
+{"question": "What is the GIA rate for $40/$1,200 coverage?", "answer": "7.77 per auto", "verbatimQuoteFromManual": "7.77", "pageNumber": "87"}
+{"question": "Are increased transportation expense limits available?", "answer": "Yes, as shown in the Product Guide.", "verbatimQuoteFromManual": "Increased limits available", "pageNumber": "87"}
+{"question": "Excess sound equipment rates?", "answer": "$20.56 per each $500 over $5,000", "verbatimQuoteFromManual": "$20.56 per each $500", "pageNumber": "88"}
+{"question": "Tapes coverage limit?", "answer": "$200 worth with $6.86 rate per auto", "verbatimQuoteFromManual": "$200 worth of tapes", "pageNumber": "88"}
+{"question": "OEM coverage factor?", "answer": "1.10 for comprehensive and collision", "verbatimQuoteFromManual": "Factor 1.10", "pageNumber": "88"}
+{"question": "Trip interruption premium?", "answer": "$6.53 for $600 limit", "verbatimQuoteFromManual": "$6.53 for $600", "pageNumber": "88"}
+{"question": "Excess electronic equipment classifications?", "answer": "Classifications do not apply", "verbatimQuoteFromManual": "Classifications do not apply", "pageNumber": "88"}
+{"question": "GIA rate for $100 comp trailers?", "answer": "0.29", "verbatimQuoteFromManual": "GIA Rate 0.29", "pageNumber": "89"}
+{"question": "Snowmobile collision GIA rate $200?", "answer": "0.82", "verbatimQuoteFromManual": "GIA Rate 0.82", "pageNumber": "89"}
+{"question": "Golf cart liability percentage?", "answer": "15% of base rate", "verbatimQuoteFromManual": "Charge 15% of base rate", "pageNumber": "89"}
+{"question": "Dune buggy comp $200 deductible?", "answer": "1.02", "verbatimQuoteFromManual": "GIA Rate 1.02", "pageNumber": "89"}
+{"question": "Antique auto liability percentage?", "answer": "40% of base rate", "verbatimQuoteFromManual": "Charge 40% of base rate", "pageNumber": "89"}
+{"question": "What is form PP 1301C 0510?", "answer": "Coverage for Damage To Your Auto.", "verbatimQuoteFromManual": "Coverage for Damage", "pageNumber": "90"}
+{"question": "Snowmobile coverage form number?", "answer": "PP 03 40 01 05.", "verbatimQuoteFromManual": "Snowmobile Endorsement", "pageNumber": "90"}
+{"question": "What is PP 0481G WA 0120?", "answer": "Underinsured Motorists Coverage - Washington.", "verbatimQuoteFromManual": "Underinsured Motorists Coverage", "pageNumber": "90"}
+{"question": "Max liability for trailer/camper coverage?", "answer": "PP 1373G 0614.", "verbatimQuoteFromManual": "Maximum Limit Of Liability", "pageNumber": "90"}
+{"question": "What is REG33NS 0907 clause?", "answer": "Loss Payable Clause.", "verbatimQuoteFromManual": "Loss Payable Clause", "pageNumber": "90"}
+{"question": "What is Tier 205 factor?", "answer": "0.73", "verbatimQuoteFromManual": "Tier 205 Factor", "pageNumber": "9"}
+{"question": "How is the Grange 2.0 factor applied?", "answer": "Applied to base rates.", "verbatimQuoteFromManual": "applied to the base rates", "pageNumber": "9"}
+{"question": "Tier movement limits for renewal?", "answer": "One tier for 6 months, two tiers for 12 months.", "verbatimQuoteFromManual": "tier movement will be limited", "pageNumber": "9"}
+{"question": "When is insurance credit score updated?", "answer": "Every 36 months.", "verbatimQuoteFromManual": "insurance credit score every 36 months", "pageNumber": "9"}
+{"question": "Do expense fees modify rating plans?", "answer": "No, not subject to modification.", "verbatimQuoteFromManual": "not subject to modification", "pageNumber": "9"}

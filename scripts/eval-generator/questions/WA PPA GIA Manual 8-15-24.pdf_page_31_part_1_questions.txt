@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What does Trip Interruption cover?",
+        "answer": "Covers transport, lodging, and meals.",
+        "verbatimQuoteFromManual": "Transportation expenses incurred"
+    },
+    {
+        "question": "Eligibility for Auto Lease Coverage?",
+        "answer": "Only for private passenger autos, pickups, or vans.",
+        "verbatimQuoteFromManual": "private passenger auto, pickup or van"
+    },
+    {
+        "question": "PIP coverage exclusions?",
+        "answer": "Excludes motorcycles, mopeds, and farm tractors.",
+        "verbatimQuoteFromManual": "not eligible for PIP coverage"
+    },
+    {
+        "question": "Rate for Auto Lease Coverage?",
+        "answer": "7% of both Collision and Comprehensive premiums.",
+        "verbatimQuoteFromManual": "Charge 7% of both"
+    },
+    {
+        "question": "Endorsement for Trip Interruption?",
+        "answer": "PP1302 endorsement required.",
+        "verbatimQuoteFromManual": "Attach the Trip Interruption Coverage"
+    }
+]
+```

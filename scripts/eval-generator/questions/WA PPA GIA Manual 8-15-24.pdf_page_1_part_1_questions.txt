@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Effective date for new business?",
+        "answer": "12-1-24.",
+        "verbatimQuoteFromManual": "12-1-24 New Business"
+    },
+    {
+        "question": "Rate impact percentage of revisions?",
+        "answer": "+2.6%.",
+        "verbatimQuoteFromManual": "overall rate impact of +2.6%"
+    },
+    {
+        "question": "What was revised for PIP?",
+        "answer": "PIP & Medical Base Rates.",
+        "verbatimQuoteFromManual": "PIP & Medical Base Rates"
+    },
+    {
+        "question": "What pages cover collision relativities?",
+        "answer": "R-20, R-21, R-22.",
+        "verbatimQuoteFromManual": "R-20, R-21, R-22"
+    },
+    {
+        "question": "Who is the contact for forms?",
+        "answer": "Ann Van Hollebeke.",
+        "verbatimQuoteFromManual": "Ann Van Hollebeke"
+    }
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is the 2027 rate for symbol 67?",
+        "answer": "8.70",
+        "verbatimQuoteFromManual": "8.70"
+    },
+    {
+        "question": "How has symbol 55 changed since 2015?",
+        "answer": "From 2.34 to 3.86",
+        "verbatimQuoteFromManual": "2.34 to 3.86"
+    },
+    {
+        "question": "What is the trend for symbol 75?",
+        "answer": "Increasing yearly to 15.08",
+        "verbatimQuoteFromManual": "15.08"
+    },
+    {
+        "question": "Which symbol has the highest 2027 rate?",
+        "answer": "Symbol 75",
+        "verbatimQuoteFromManual": "Symbol 75"
+    },
+    {
+        "question": "2024 rate for symbol 61?",
+        "answer": "5.31",
+        "verbatimQuoteFromManual": "5.31"
+    }
+]
+```

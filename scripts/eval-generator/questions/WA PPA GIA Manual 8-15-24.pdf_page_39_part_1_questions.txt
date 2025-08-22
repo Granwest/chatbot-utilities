@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What defines a rating territory?",
+        "answer": "Geographical area based on USPS ZIP codes.",
+        "verbatimQuoteFromManual": "geographical area defined"
+    },
+    {
+        "question": "When ZIP codes differ, which applies?",
+        "answer": "ZIP code of principal garaging location.",
+        "verbatimQuoteFromManual": "location of principal garaging"
+    },
+    {
+        "question": "Can rates change only for ZIP code change?",
+        "answer": "No, rates cannot change solely for ZIP code change.",
+        "verbatimQuoteFromManual": "rates shall not be changed"
+    },
+    {
+        "question": "Who can change territory boundaries?",
+        "answer": "Only the insurer’s rate filings.",
+        "verbatimQuoteFromManual": "changed only by the insurer"
+    },
+    {
+        "question": "What determines physical territory boundaries?",
+        "answer": "Rate filing ZIP code boundaries in effect.",
+        "verbatimQuoteFromManual": "determined by the ZIP code boundaries"
+    }
+]
+```

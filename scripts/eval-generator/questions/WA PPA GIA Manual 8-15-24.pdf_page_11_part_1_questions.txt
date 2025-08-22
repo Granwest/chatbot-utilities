@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Prior BI limits under $50k?",
+        "answer": "Point value is 3.",
+        "verbatimQuoteFromManual": "< 50,000"
+    },
+    {
+        "question": "Vehicle age 14-15 years?",
+        "answer": "Point value is 16.",
+        "verbatimQuoteFromManual": "14 - 15"
+    },
+    {
+        "question": "6+ prior carriers rule?",
+        "answer": "Point value is 6.",
+        "verbatimQuoteFromManual": "6 +"
+    },
+    {
+        "question": "BI limits $100k-$249k?",
+        "answer": "Point value is 5.",
+        "verbatimQuoteFromManual": "100,000 - 249,999"
+    },
+    {
+        "question": "Vehicle age 0-1 years?",
+        "answer": "Point value is 11.",
+        "verbatimQuoteFromManual": "0 - 1"
+    }
+]
+```

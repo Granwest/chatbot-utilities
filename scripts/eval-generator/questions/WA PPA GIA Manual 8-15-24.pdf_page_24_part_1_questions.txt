@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "how are premium adjustments computed?",
+        "answer": "All computed pro rata.",
+        "verbatimQuoteFromManual": "computed pro rata"
+    },
+    {
+        "question": "what happens if reinstated within 30 days?",
+        "answer": "Same premium as cancellation.",
+        "verbatimQuoteFromManual": "same as at time"
+    },
+    {
+        "question": "is refund under $2 waived?",
+        "answer": "Yes, refund under $2 waived.",
+        "verbatimQuoteFromManual": "refund of less than $2"
+    },
+    {
+        "question": "how compute return premium for cancellation?",
+        "answer": "Compute pro rata return premium.",
+        "verbatimQuoteFromManual": "compute return premium pro rata"
+    },
+    {
+        "question": "how calculate earned premium for 6-month policy?",
+        "answer": "Multiply 0.214 by 2.",
+        "verbatimQuoteFromManual": "Multiply .214 by 2"
+    }
+]
+```

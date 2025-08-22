@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is form PP 1301C 0510?",
+        "answer": "Coverage for Damage To Your Auto.",
+        "verbatimQuoteFromManual": "Coverage for Damage"
+    },
+    {
+        "question": "Snowmobile coverage form number?",
+        "answer": "PP 03 40 01 05.",
+        "verbatimQuoteFromManual": "Snowmobile Endorsement"
+    },
+    {
+        "question": "What is PP 0481G WA 0120?",
+        "answer": "Underinsured Motorists Coverage - Washington.",
+        "verbatimQuoteFromManual": "Underinsured Motorists Coverage"
+    },
+    {
+        "question": "Max liability for trailer/camper coverage?",
+        "answer": "PP 1373G 0614.",
+        "verbatimQuoteFromManual": "Maximum Limit Of Liability"
+    },
+    {
+        "question": "What is REG33NS 0907 clause?",
+        "answer": "Loss Payable Clause.",
+        "verbatimQuoteFromManual": "Loss Payable Clause"
+    }
+]
+```

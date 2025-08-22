@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "How are surcharge points assigned?",
+        "answer": "Assigned to the vehicle rated on.",
+        "verbatimQuoteFromManual": "Assign the surcharge"
+    },
+    {
+        "question": "What happens to surcharges at renewal?",
+        "answer": "Added at policy renewal date only.",
+        "verbatimQuoteFromManual": "added at policy renewal date"
+    },
+    {
+        "question": "What if a driver is excluded?",
+        "answer": "Excluded drivers are not subject to DARP surcharge.",
+        "verbatimQuoteFromManual": "specifically excluded from the policy"
+    },
+    {
+        "question": "Model year for rebuilt autos?",
+        "answer": "Determined by chassis model year.",
+        "verbatimQuoteFromManual": "model year of the chassis"
+    },
+    {
+        "question": "Rates missing for model year?",
+        "answer": "Use rates for latest model year.",
+        "verbatimQuoteFromManual": "rates shown for the latest model year"
+    }
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Which territory is ZIP 98133?",
+        "answer": "Territory 58.",
+        "verbatimQuoteFromManual": "ZIP 98133 Territory 58"
+    },
+    {
+        "question": "What territory is Bellingham in?",
+        "answer": "Territory 56.",
+        "verbatimQuoteFromManual": "Bellingham Territory 56"
+    },
+    {
+        "question": "ZIP 98201 belongs to which territory?",
+        "answer": "Territory 55.",
+        "verbatimQuoteFromManual": "ZIP 98201 Territory 55"
+    },
+    {
+        "question": "What territory is Oak Harbor?",
+        "answer": "Territory 62.",
+        "verbatimQuoteFromManual": "Oak Harbor Territory 62"
+    },
+    {
+        "question": "ZIP 98237 corresponds to which territory?",
+        "answer": "Territory 56.",
+        "verbatimQuoteFromManual": "ZIP 98237 Territory 56"
+    }
+]
+```

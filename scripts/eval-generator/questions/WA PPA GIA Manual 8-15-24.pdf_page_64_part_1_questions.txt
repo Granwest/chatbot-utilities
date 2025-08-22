@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is code 66130?",
+        "answer": "Width not to exceed 8 feet.",
+        "verbatimQuoteFromManual": "WIDTH NOT TO EXCEED 8 FEET"
+    },
+    {
+        "question": "What does code 11730 mean?",
+        "answer": "Use of false name to obtain title.",
+        "verbatimQuoteFromManual": "USE OF FALSE NAME/STATMT TO OBTAIN TITLE, REG"
+    },
+    {
+        "question": "Is radar jamming device non-moving?",
+        "answer": "Yes, classified as non-moving.",
+        "verbatimQuoteFromManual": "USE OF RADAR JAMMING DEVICE"
+    },
+    {
+        "question": "What is violation 11320?",
+        "answer": "Vehicle not operable while reg suspended.",
+        "verbatimQuoteFromManual": "VEH NOT TO BE OPER WHILE REG IS SUSP/REV"
+    },
+    {
+        "question": "Code for warning lights on truck?",
+        "answer": "Violation code is 61250.",
+        "verbatimQuoteFromManual": "WARNING LIGHTS TO BE DISPL WHEN TRUCK STOPPED"
+    }
+]
+```

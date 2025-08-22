@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "wrong way one-way street?",
+        "answer": "Minor violation.",
+        "verbatimQuoteFromManual": "Wrong way on one-way street"
+    },
+    {
+        "question": "failure to stop at red signal?",
+        "answer": "Failure to stop, minor.",
+        "verbatimQuoteFromManual": "Fail to obey flashing red signal"
+    },
+    {
+        "question": "speeding 10-29 mph over?",
+        "answer": "Minor violation.",
+        "verbatimQuoteFromManual": "Speed 10-29 over limit"
+    },
+    {
+        "question": "turning in violation of control device?",
+        "answer": "Minor violation.",
+        "verbatimQuoteFromManual": "Turning in viol of ctrl dev"
+    },
+    {
+        "question": "fail to yield exiting driveway?",
+        "answer": "Failure to yield, minor.",
+        "verbatimQuoteFromManual": "Veh entering from pvt rd/driveway to yld"
+    }
+]
+```

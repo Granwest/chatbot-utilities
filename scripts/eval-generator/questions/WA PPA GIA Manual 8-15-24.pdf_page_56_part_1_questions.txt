@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is violation code 36100?",
+        "answer": "Follow too closely, generally.",
+        "verbatimQuoteFromManual": "FOLLOW TOO CLOSELY, GENERALLY"
+    },
+    {
+        "question": "How is 68730 classified?",
+        "answer": "Minor violation.",
+        "verbatimQuoteFromManual": "Minor"
+    },
+    {
+        "question": "What does 42110 mean?",
+        "answer": "Motorcycle prohibit from passing in same lane.",
+        "verbatimQuoteFromManual": "MCYC PROH FROM PASSING VEH IN SAME LANE"
+    },
+    {
+        "question": "Classification for impairing road/block traffic?",
+        "answer": "Minor violation.",
+        "verbatimQuoteFromManual": "Minor"
+    },
+    {
+        "question": "What is 14110 about?",
+        "answer": "Loss of consent for minor's license.",
+        "verbatimQuoteFromManual": "LOSS OF CONSENT FOR MINOR'S LICENSE"
+    }
+]
+```

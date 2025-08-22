@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "How are premiums rounded?",
+        "answer": "To the nearest whole dollar.",
+        "verbatimQuoteFromManual": "nearest whole dollar"
+    },
+    {
+        "question": "Factor for comprehensive Symbol 70?",
+        "answer": "+0.74 per $10,000 above $150,000.",
+        "verbatimQuoteFromManual": "+0.74 per $10,000 above"
+    },
+    {
+        "question": "Collision factor for Symbol 26?",
+        "answer": "+0.35 per $10,000 above $80,000.",
+        "verbatimQuoteFromManual": "+0.35 per $10,000 above"
+    },
+    {
+        "question": "Rate increase for 1975 Symbol 7?",
+        "answer": "20% per $1,000 above $10,000.",
+        "verbatimQuoteFromManual": "20% per $1,000 above"
+    },
+    {
+        "question": "Definition of original cost?",
+        "answer": "Manufacturer's Suggested Retail Price.",
+        "verbatimQuoteFromManual": "Manufacturer's Suggested Retail Price"
+    }
+]
+```

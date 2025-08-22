@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Factor for 18-year-old pleasure use?",
+        "answer": "2.70 without driver training.",
+        "verbatimQuoteFromManual": "Factor Code 8401"
+    },
+    {
+        "question": "Driver training impact for 21-year-old?",
+        "answer": "1.64 vs 1.47 without training.",
+        "verbatimQuoteFromManual": "Factor Code 8754"
+    },
+    {
+        "question": "Good student discount for 17-year-old?",
+        "answer": "2.58 for pleasure use.",
+        "verbatimQuoteFromManual": "Factor Code 8406"
+    },
+    {
+        "question": "Rates for 19-year-old with good student credit?",
+        "answer": "2.30 for pleasure use.",
+        "verbatimQuoteFromManual": "Factor Code 8452"
+    },
+    {
+        "question": "Age range for special classification?",
+        "answer": "25-29 classified as all others.",
+        "verbatimQuoteFromManual": "Operators age 25-29"
+    }
+]
+```

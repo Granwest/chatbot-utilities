@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is DARP?",
+        "answer": "Driving Activity Rating Plan.",
+        "verbatimQuoteFromManual": "Driving Activity Rating Plan (DARP)"
+    },
+    {
+        "question": "UIM-BI increased limit factors?",
+        "answer": "Underinsured motorist bodily injury coverage limits.",
+        "verbatimQuoteFromManual": "UIM-BI increased limit factors"
+    },
+    {
+        "question": "Optional limits for transportation expenses?",
+        "answer": "Optional limits transportation expenses coverage available.",
+        "verbatimQuoteFromManual": "Optional limits transportation expenses coverage"
+    },
+    {
+        "question": "Coverage for tapes and disks?",
+        "answer": "Tapes, records, disks are covered.",
+        "verbatimQuoteFromManual": "Tapes, records, disks and other media coverage"
+    },
+    {
+        "question": "What is OEM coverage?",
+        "answer": "Original Equipment Manufacturer coverage.",
+        "verbatimQuoteFromManual": "Original Equipment Manufacturer (OEM) coverage"
+    }
+]
+```

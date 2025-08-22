@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is a motor home?",
+        "answer": "Self-propelled vehicle with living area.",
+        "verbatimQuoteFromManual": "self-propelled motor vehicle"
+    },
+    {
+        "question": "Symbol for motor home over $65,000?",
+        "answer": "Use Symbol 21 (A).",
+        "verbatimQuoteFromManual": "Symbol 21 (A)"
+    },
+    {
+        "question": "Collision rate for motor home over $65,000?",
+        "answer": "1.4% per $1,000 over $65,000.",
+        "verbatimQuoteFromManual": "1.4% for each $1,000"
+    },
+    {
+        "question": "Base rate for pleasure use motor homes?",
+        "answer": "Charge 35% of standard base rates.",
+        "verbatimQuoteFromManual": "Charge 35% of"
+    },
+    {
+        "question": "How is the chassis model year determined?",
+        "answer": "Based on the year of the chassis.",
+        "verbatimQuoteFromManual": "model year of the chassis"
+    }
+]
+```

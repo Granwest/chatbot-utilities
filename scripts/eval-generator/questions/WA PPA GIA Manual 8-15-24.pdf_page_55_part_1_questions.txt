@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is code 16460?",
+        "answer": "Suspension or revocation of license.",
+        "verbatimQuoteFromManual": "Suspension or revocation of license"
+    },
+    {
+        "question": "Minor violation for driving on sidewalk?",
+        "answer": "Code 82520.",
+        "verbatimQuoteFromManual": "DRIV VEH ON SDWK"
+    },
+    {
+        "question": "Fail to dim headlights follow vehicle?",
+        "answer": "Code 61340 is applicable.",
+        "verbatimQuoteFromManual": "FAIL TO DIM HEADLIGHTS FOLLOW VEH"
+    },
+    {
+        "question": "Major violation for false info?",
+        "answer": "Yes, code 16460.",
+        "verbatimQuoteFromManual": "WITHDRAWL, FALSE INFO"
+    },
+    {
+        "question": "Follow fire truck too closely?",
+        "answer": "Minor violation, code 36140.",
+        "verbatimQuoteFromManual": "FOLLOW FIRE TRUCK TOO CLOSELY"
+    }
+]
+```

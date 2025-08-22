@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What if youthful operator classification?",
+        "answer": "Applies to autos with youthful operators.",
+        "verbatimQuoteFromManual": "Youthful Operator classification"
+    },
+    {
+        "question": "Assign operators for multi-car risks?",
+        "answer": "Assign operators to autos they customarily operate.",
+        "verbatimQuoteFromManual": "customarily operates"
+    },
+    {
+        "question": "Excess autos classification rule?",
+        "answer": "Excess Autos 1 classification applies.",
+        "verbatimQuoteFromManual": "Excess Autos 1 classification"
+    },
+    {
+        "question": "Driver with highest rating factor?",
+        "answer": "Used for classification rating factor.",
+        "verbatimQuoteFromManual": "highest primary rating factor"
+    },
+    {
+        "question": "Youthful operator with multiple autos?",
+        "answer": "Assign to auto with highest Total Base Premium.",
+        "verbatimQuoteFromManual": "highest Total Base Premium"
+    }
+]
+```

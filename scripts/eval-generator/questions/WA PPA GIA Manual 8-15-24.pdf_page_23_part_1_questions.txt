@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "Minimum policy premium charge?",
+        "answer": "6 months: $50; 12 months: $100",
+        "verbatimQuoteFromManual": "Minimum policy premium charge"
+    },
+    {
+        "question": "Pro rata basis adjustment?",
+        "answer": "Applied for cancellation or short term policy",
+        "verbatimQuoteFromManual": "pro rata or short rate basis"
+    },
+    {
+        "question": "Coverage for 29th-31st effective date?",
+        "answer": "Can be extended to first calendar day of next month.",
+        "verbatimQuoteFromManual": "effective date on the 29th, 30th and 31st"
+    },
+    {
+        "question": "Waiver for extended coverage?",
+        "answer": "Premium for 1-3 days may be waived.",
+        "verbatimQuoteFromManual": "coverage of 1 to 3 days may be waived"
+    },
+    {
+        "question": "Short-term policy rule?",
+        "answer": "Written on pro rata basis per table.",
+        "verbatimQuoteFromManual": "written on a pro rata basis"
+    }
+]
+```

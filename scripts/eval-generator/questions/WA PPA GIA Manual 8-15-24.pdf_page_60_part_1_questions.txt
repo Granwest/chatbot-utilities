@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "question": "What is violation 311DF?",
+        "answer": "Speeding 20 mph and under.",
+        "verbatimQuoteFromManual": "311DF SPEED 10-19 OVER LIMIT"
+    },
+    {
+        "question": "Classification of violation 67120?",
+        "answer": "Non-moving.",
+        "verbatimQuoteFromManual": "67120 ABANDON VEHICLE"
+    },
+    {
+        "question": "Definition of 311AF?",
+        "answer": "Speeding 20 mph and under.",
+        "verbatimQuoteFromManual": "311AF SPEED 1-19 OVER LIMIT"
+    },
+    {
+        "question": "Violation 3110B classification?",
+        "answer": "Minor.",
+        "verbatimQuoteFromManual": "3110B SPEED 5-9 OVER LIMIT"
+    },
+    {
+        "question": "What is 61410 related to?",
+        "answer": "Additional lighting equipment.",
+        "verbatimQuoteFromManual": "61410 ADDITIONAL LIGHTING EQUIP"
+    }
+]
+```
